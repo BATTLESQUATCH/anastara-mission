@@ -1,5 +1,9 @@
 *****
-This is the largest set of landmines I have created (and was able to successfully run on a server) for Anastara.  I originally included this file by default and thought better of it.  If you can't run the original file in this directory, you absolutely cannot run this file.  Copy the contents below to SimpleSpawner.json AT YOUR OWN RISK I REALLY HOPE YOU READ THIS.
+This is the largest set of landmines I have created (and was able to successfully run on a server) for Anastara.  
+
+I originally included this file by default and thought better of it.  If you can't run the original file in this directory, you absolutely cannot run this file.  
+
+Copy the contents below to SimpleSpawner.json AT YOUR OWN RISK I REALLY HOPE YOU READ THIS.
 *****
 
 {
