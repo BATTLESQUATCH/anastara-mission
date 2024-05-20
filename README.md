@@ -6,7 +6,7 @@
 ## Anastara DayZ Map Mod Mission Files
 config-profiles:  optional config files for Gebs Fish, SimpleSpawner and SpawnerBubaku
 
-core-mission:  standard XMLs for mission (territories, types, etc.)
+dayzOffline.anastara:  standard XMLs for mission (territories, types, etc.)
 
 ### Core server-side mods
 @CJ187-SimpleSpawner: allows spawning of CJ_Armed_LandMineTrap for minefields (optional, do not include to disable minefields entirely)
