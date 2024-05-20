@@ -1,6 +1,6 @@
 ## Overview and Special Thanks
  - Neither this map mod or any future updates for it will be paywalled in any way.  It will not be removed from the Steam Workshop for any reason within my control.  It has been created by me for the community, always available, always for free, and you can hold me to that at risk of public shame and #DayZ disbarment.  🫡
- - This version of the map is the minimum viable product with full progression and endgame.  I will be providing core map updates at a slower pace moving forward so as to not force frequent wipes on any communities/server admins who adopt the map.
+ - This version of the map is the minimum viable experience with full progression and endgame.  I will be providing core map updates at a slower pace moving forward so as to not force frequent wipes on any communities/server admins who adopt the map.
  - We welcome all feedback big or small in the discord, link below.  Special thanks to the OG members who have played for the last year and provided input and support, and to DayZ modder LIVINGxDEAD for creating Winter Anastara and the dynamic weather events for this mod.
 
 ## Anastara DayZ Map Mod Mission Files
