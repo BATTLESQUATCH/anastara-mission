@@ -43,6 +43,24 @@ These mods improve the experience but are not dependencies:
 ### Types
 For convenience (hopefully), the types.xml in core-mission/db includes entries from all of the required and recommended mods listed above.  Search #mod in types.xml to view each section.  
 
+### Special Thanks
+The following community members were critical to the Anastara project:
+ - bloodswarms
+ - kotton
+ - yourgirlvexxi
+ - kkaasseeyy65
+ - mikjailbottington
+ - terpyclay
+ - kingslayer turbo
+ - lambos2n
+ - yourfriendfaust
+ - briantwin
+ - lottie
+ - spaggie
+ - livingxdead
+
+If I missed anyone, please don't be shy and let me know.  
+
 ### Contact
 X: https://x.com/battlesquatch
 
