@@ -1,0 +1,1151 @@
+2024-03-12T01:20:30Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 3768 153.138 8243.96 ori: 0 0 0
+2024-03-12T02:21:05Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-12T02:21:05Z [SpawnerBubaku] Trigger position contains commas, thats wrong! Only one space between numbers! Fix yours config according example!!!
+2024-03-12T02:21:05Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-12T02:25:33Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-12T02:25:33Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-12T02:25:33Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-12T02:26:19Z [SpawnerBubaku] SpawnerBubaku ENTER
+2024-03-12T02:26:19Z [SpawnerBubaku] Triggered Bunker South Trigger Lvl1 time 54
+2024-03-12T02:26:19Z [SpawnerBubaku] Can trigger action 54 last 54 trigger delay 1800
+2024-03-12T02:26:19Z [SpawnerBubaku] m_OnlyFillUpToBubaknum: 0
+2024-03-12T02:26:19Z [SpawnerBubaku] m_BubakNum: 5
+2024-03-12T02:26:19Z [SpawnerBubaku] m_SpawnLocations.Count(): 8
+2024-03-12T02:26:19Z [SpawnerBubaku] SpawnerBubaku_GetActiveObjectsNum(): 0
+2024-03-12T02:26:19Z [SpawnerBubaku] Need to create: 5
+2024-03-12T02:26:19Z [SpawnerBubaku] random position index: 7
+2024-03-12T02:26:19Z [SpawnerBubaku] Created bubak: 341166
+2024-03-12T02:26:19Z [SpawnerBubaku] pos: <3988.169678, 36.182724, 8199.458008>
+2024-03-12T02:26:19Z [SpawnerBubaku] random position index: 3
+2024-03-12T02:26:19Z [SpawnerBubaku] Created bubak: 341167
+2024-03-12T02:26:19Z [SpawnerBubaku] pos: <3988.343018, 36.182758, 8176.919434>
+2024-03-12T02:26:19Z [SpawnerBubaku] random position index: 2
+2024-03-12T02:26:19Z [SpawnerBubaku] Created bubak: 341168
+2024-03-12T02:26:19Z [SpawnerBubaku] pos: <3995.409912, 36.182346, 8174.441895>
+2024-03-12T02:26:19Z [SpawnerBubaku] random position index: 1
+2024-03-12T02:26:19Z [SpawnerBubaku] Created bubak: 341169
+2024-03-12T02:26:19Z [SpawnerBubaku] pos: <3994.826172, 36.181381, 8168.625488>
+2024-03-12T02:26:19Z [SpawnerBubaku] random position index: 3
+2024-03-12T02:26:19Z [SpawnerBubaku] Created bubak: 341170
+2024-03-12T02:26:19Z [SpawnerBubaku] pos: <3995.144531, 36.182293, 8196.884766>
+2024-03-12T02:26:19Z [SpawnerBubaku] BATTLESQUATCH triggered Bunker South Trigger Lvl1
+2024-03-12T02:26:21Z [SpawnerBubaku] SpawnerBubaku EXIT
+2024-03-12T09:13:57Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-12T09:13:57Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-12T09:13:57Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-12T20:19:49Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-12T20:19:49Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-12T20:19:49Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-12T20:30:18Z [SpawnerBubaku] SpawnerBubaku ENTER
+2024-03-12T20:30:18Z [SpawnerBubaku] Triggered Bunker South Trigger Lvl1 time 641
+2024-03-12T20:30:18Z [SpawnerBubaku] Can trigger action 641 last 641 trigger delay 1800
+2024-03-12T20:30:18Z [SpawnerBubaku] m_OnlyFillUpToBubaknum: 0
+2024-03-12T20:30:18Z [SpawnerBubaku] m_BubakNum: 5
+2024-03-12T20:30:18Z [SpawnerBubaku] m_SpawnLocations.Count(): 8
+2024-03-12T20:30:18Z [SpawnerBubaku] SpawnerBubaku_GetActiveObjectsNum(): 0
+2024-03-12T20:30:18Z [SpawnerBubaku] Need to create: 5
+2024-03-12T20:30:18Z [SpawnerBubaku] random position index: 7
+2024-03-12T20:30:18Z [SpawnerBubaku] Created bubak: 345672
+2024-03-12T20:30:18Z [SpawnerBubaku] pos: <3988.169678, 36.182724, 8199.458008>
+2024-03-12T20:30:18Z [SpawnerBubaku] random position index: 4
+2024-03-12T20:30:18Z [SpawnerBubaku] Created bubak: 345673
+2024-03-12T20:30:18Z [SpawnerBubaku] pos: <3989.364014, 36.180817, 8188.008301>
+2024-03-12T20:30:18Z [SpawnerBubaku] random position index: 0
+2024-03-12T20:30:18Z [SpawnerBubaku] Created bubak: 345674
+2024-03-12T20:30:18Z [SpawnerBubaku] pos: <3987.982666, 36.140648, 8165.933594>
+2024-03-12T20:30:18Z [SpawnerBubaku] random position index: 3
+2024-03-12T20:30:18Z [SpawnerBubaku] Created bubak: 345675
+2024-03-12T20:30:18Z [SpawnerBubaku] pos: <3995.482910, 36.181187, 8190.229980>
+2024-03-12T20:30:18Z [SpawnerBubaku] random position index: 2
+2024-03-12T20:30:18Z [SpawnerBubaku] Created bubak: 345676
+2024-03-12T20:30:18Z [SpawnerBubaku] pos: <3988.343018, 36.182758, 8176.919434>
+2024-03-12T20:30:18Z [SpawnerBubaku] BATTLESQUATCH triggered Bunker South Trigger Lvl1
+2024-03-12T20:30:19Z [SpawnerBubaku] SpawnerBubaku EXIT
+2024-03-12T20:31:54Z [SpawnerBubaku] SpawnerBubaku ENTER
+2024-03-12T20:31:54Z [SpawnerBubaku] Triggered Bunker South Trigger Lvl1 time 737
+2024-03-12T20:31:54Z [SpawnerBubaku] Cannot trigger action it was called at 641
+2024-03-12T20:31:55Z [SpawnerBubaku] SpawnerBubaku EXIT
+2024-03-12T20:31:59Z [SpawnerBubaku] SpawnerBubaku ENTER
+2024-03-12T20:31:59Z [SpawnerBubaku] Triggered Bunker South Trigger Lvl1 time 742
+2024-03-12T20:31:59Z [SpawnerBubaku] Cannot trigger action it was called at 641
+2024-03-12T20:32:01Z [SpawnerBubaku] SpawnerBubaku EXIT
+2024-03-12T21:22:02Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-12T21:22:02Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-12T21:22:02Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-12T21:25:01Z [SpawnerBubaku] SpawnerBubaku ENTER
+2024-03-12T21:25:01Z [SpawnerBubaku] Triggered Bunker South Trigger Lvl1 time 189
+2024-03-12T21:25:01Z [SpawnerBubaku] Can trigger action 189 last 189 trigger delay 1800
+2024-03-12T21:25:01Z [SpawnerBubaku] m_OnlyFillUpToBubaknum: 0
+2024-03-12T21:25:01Z [SpawnerBubaku] m_BubakNum: 5
+2024-03-12T21:25:01Z [SpawnerBubaku] m_SpawnLocations.Count(): 8
+2024-03-12T21:25:01Z [SpawnerBubaku] SpawnerBubaku_GetActiveObjectsNum(): 0
+2024-03-12T21:25:01Z [SpawnerBubaku] Need to create: 5
+2024-03-12T21:25:01Z [SpawnerBubaku] random position index: 6
+2024-03-12T21:25:01Z [SpawnerBubaku] Created bubak: 342463
+2024-03-12T21:25:01Z [SpawnerBubaku] pos: <3995.144531, 36.182293, 8196.884766>
+2024-03-12T21:25:01Z [SpawnerBubaku] random position index: 5
+2024-03-12T21:25:01Z [SpawnerBubaku] Created bubak: 342464
+2024-03-12T21:25:01Z [SpawnerBubaku] pos: <3995.482910, 36.181187, 8190.229980>
+2024-03-12T21:25:01Z [SpawnerBubaku] random position index: 4
+2024-03-12T21:25:01Z [SpawnerBubaku] Created bubak: 342465
+2024-03-12T21:25:01Z [SpawnerBubaku] pos: <3989.364014, 36.180817, 8188.008301>
+2024-03-12T21:25:01Z [SpawnerBubaku] random position index: 0
+2024-03-12T21:25:01Z [SpawnerBubaku] Created bubak: 342466
+2024-03-12T21:25:01Z [SpawnerBubaku] pos: <3987.982666, 36.140648, 8165.933594>
+2024-03-12T21:25:01Z [SpawnerBubaku] random position index: 0
+2024-03-12T21:25:01Z [SpawnerBubaku] Created bubak: 342467
+2024-03-12T21:25:01Z [SpawnerBubaku] pos: <3994.826172, 36.181381, 8168.625488>
+2024-03-12T21:25:01Z [SpawnerBubaku] BATTLESQUATCH triggered Bunker South Trigger Lvl1
+2024-03-12T21:25:01Z [SpawnerBubaku] SpawnerBubaku EXIT
+2024-03-12T21:26:51Z [SpawnerBubaku] SpawnerBubaku ENTER
+2024-03-12T21:26:51Z [SpawnerBubaku] Triggered Bunker South Trigger Lvl1 time 299
+2024-03-12T21:26:51Z [SpawnerBubaku] Cannot trigger action it was called at 189
+2024-03-12T21:26:52Z [SpawnerBubaku] SpawnerBubaku EXIT
+2024-03-12T21:27:26Z [SpawnerBubaku] SpawnerBubaku ENTER
+2024-03-12T21:27:26Z [SpawnerBubaku] Triggered Bunker South Trigger Lvl1 time 334
+2024-03-12T21:27:26Z [SpawnerBubaku] Cannot trigger action it was called at 189
+2024-03-12T21:27:27Z [SpawnerBubaku] SpawnerBubaku EXIT
+2024-03-13T09:02:54Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-13T09:02:54Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-13T09:02:54Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-13T09:07:39Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-13T09:07:39Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-13T09:07:39Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-13T12:31:48Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-13T12:31:48Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-13T12:31:48Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-16T10:04:14Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-16T10:04:14Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-16T10:04:14Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-16T10:06:55Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-16T10:06:55Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-16T10:06:55Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-17T17:18:24Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-17T17:18:24Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-17T17:18:24Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-18T14:04:23Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-18T14:04:23Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-18T14:04:23Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-18T14:09:01Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-18T14:09:01Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-18T14:09:01Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-19T08:08:32Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-19T08:08:32Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-19T08:08:32Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-28T14:02:30Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-28T14:02:30Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-28T14:02:30Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-28T14:35:38Z [SpawnerBubaku] SpawnerBubaku ENTER
+2024-03-28T14:35:38Z [SpawnerBubaku] Triggered Bunker South Trigger Lvl1 time 1998
+2024-03-28T14:35:38Z [SpawnerBubaku] Can trigger action 1998 last 1998 trigger delay 1800
+2024-03-28T14:35:38Z [SpawnerBubaku] m_OnlyFillUpToBubaknum: 0
+2024-03-28T14:35:38Z [SpawnerBubaku] m_BubakNum: 5
+2024-03-28T14:35:38Z [SpawnerBubaku] m_SpawnLocations.Count(): 8
+2024-03-28T14:35:38Z [SpawnerBubaku] SpawnerBubaku_GetActiveObjectsNum(): 0
+2024-03-28T14:35:38Z [SpawnerBubaku] Need to create: 5
+2024-03-28T14:35:38Z [SpawnerBubaku] random position index: 4
+2024-03-28T14:35:38Z [SpawnerBubaku] Created bubak: 358782
+2024-03-28T14:35:38Z [SpawnerBubaku] pos: <3989.364014, 36.180817, 8188.008301>
+2024-03-28T14:35:38Z [SpawnerBubaku] random position index: 0
+2024-03-28T14:35:38Z [SpawnerBubaku] Created bubak: 358783
+2024-03-28T14:35:38Z [SpawnerBubaku] pos: <3987.982666, 36.140648, 8165.933594>
+2024-03-28T14:35:38Z [SpawnerBubaku] random position index: 4
+2024-03-28T14:35:38Z [SpawnerBubaku] Created bubak: 358784
+2024-03-28T14:35:38Z [SpawnerBubaku] pos: <3995.144531, 36.182293, 8196.884766>
+2024-03-28T14:35:38Z [SpawnerBubaku] random position index: 1
+2024-03-28T14:35:38Z [SpawnerBubaku] Created bubak: 358785
+2024-03-28T14:35:38Z [SpawnerBubaku] pos: <3995.409912, 36.182346, 8174.441895>
+2024-03-28T14:35:38Z [SpawnerBubaku] random position index: 0
+2024-03-28T14:35:38Z [SpawnerBubaku] Created bubak: 358786
+2024-03-28T14:35:38Z [SpawnerBubaku] pos: <3994.826172, 36.181381, 8168.625488>
+2024-03-28T14:35:38Z [SpawnerBubaku] BATTLESQUATCH triggered Bunker South Trigger Lvl1
+2024-03-28T14:35:39Z [SpawnerBubaku] SpawnerBubaku EXIT
+2024-03-28T14:35:44Z [SpawnerBubaku] SpawnerBubaku ENTER
+2024-03-28T14:35:44Z [SpawnerBubaku] Triggered Bunker South Trigger Lvl1 time 2004
+2024-03-28T14:35:44Z [SpawnerBubaku] Cannot trigger action it was called at 1998
+2024-03-28T14:35:45Z [SpawnerBubaku] SpawnerBubaku EXIT
+2024-03-28T19:29:17Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-28T19:29:17Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-28T19:29:17Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-29T23:51:11Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-29T23:51:11Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-29T23:51:11Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-29T23:58:48Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-29T23:58:48Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-29T23:58:48Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-30T00:09:14Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-30T00:09:14Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-30T00:09:14Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-30T00:13:38Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-30T00:13:38Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-30T00:13:38Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-30T00:16:52Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-30T00:16:52Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-30T00:16:52Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-30T00:21:41Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-30T00:21:41Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-30T00:21:41Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-30T00:51:41Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-30T00:51:41Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-30T00:51:41Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-30T00:56:14Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-30T00:56:14Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-30T00:56:14Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-30T01:03:17Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-30T01:03:17Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-30T01:03:17Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-30T03:20:10Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-30T03:20:10Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-30T03:20:10Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-30T03:21:59Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-30T03:21:59Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-30T03:21:59Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-30T03:23:10Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-30T03:23:10Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-30T03:23:10Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-30T03:30:57Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-30T03:30:57Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-30T03:30:57Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-30T03:46:50Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-30T03:46:50Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-30T03:46:50Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-30T03:48:46Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-30T03:48:46Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-30T03:48:46Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-30T03:50:23Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-30T03:50:23Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-30T03:50:23Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-31T00:43:07Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-31T00:43:07Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-31T00:43:07Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-31T01:01:31Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-31T01:01:31Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-31T01:01:31Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-31T01:14:23Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-31T01:14:23Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-31T01:14:23Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-31T01:43:32Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-31T01:43:32Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-31T01:43:32Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-31T01:53:39Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-31T01:53:39Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-31T01:53:39Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-31T19:01:17Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-31T19:01:17Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-31T19:01:17Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-31T19:45:46Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-31T19:45:46Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-31T19:45:46Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-31T20:26:29Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-31T20:26:29Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-31T20:26:29Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-31T20:38:01Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-31T20:38:01Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-31T20:38:01Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-31T20:44:22Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-31T20:44:22Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-31T20:44:22Z [SpawnerBubaku] Added trigger to pool 1
+2024-03-31T21:08:18Z [SpawnerBubaku] SpawnerBubaku started!
+2024-03-31T21:08:18Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-03-31T21:08:18Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-01T23:39:50Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-01T23:39:50Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-01T23:39:50Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-02T00:49:40Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-02T00:49:40Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-02T00:49:40Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-02T01:37:13Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-02T01:37:13Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-02T01:37:13Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-02T02:20:10Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-02T02:20:10Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-02T02:20:10Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-02T02:20:53Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-02T02:20:53Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-02T02:20:53Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-02T16:49:49Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-02T16:49:49Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-02T16:49:49Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-02T17:36:50Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-02T17:36:50Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-02T17:36:50Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-02T21:02:13Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-02T21:02:13Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-02T21:02:13Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-04T21:40:46Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-04T21:40:46Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-04T21:40:46Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-04T21:52:36Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-04T21:52:36Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-04T21:52:36Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-04T22:43:50Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-04T22:43:50Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-04T22:43:50Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-04T23:22:35Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-04T23:22:35Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-04T23:22:35Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-08T02:10:17Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-08T02:10:17Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-08T02:10:17Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-08T02:13:56Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-08T02:13:56Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-08T02:13:56Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-08T19:54:12Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-08T19:54:12Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-08T19:54:12Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-08T20:09:27Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-08T20:09:27Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-08T20:09:27Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-08T22:56:59Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-08T22:56:59Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-08T22:56:59Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-08T22:57:38Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-08T22:57:38Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-08T22:57:38Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-09T06:24:37Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-09T06:24:37Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-09T06:24:37Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-09T06:33:39Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-09T06:33:39Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-09T06:33:39Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-10T01:31:40Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-10T01:31:40Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-10T01:31:40Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-10T03:14:13Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-10T03:14:13Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-10T03:14:13Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-10T04:12:55Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-10T04:12:55Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-10T04:12:55Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-10T04:28:35Z [SpawnerBubaku] SpawnerBubaku ENTER
+2024-04-10T04:28:35Z [SpawnerBubaku] Triggered Bunker South Trigger Lvl1 time 953
+2024-04-10T04:28:35Z [SpawnerBubaku] Can trigger action 953 last 953 trigger delay 1800
+2024-04-10T04:28:35Z [SpawnerBubaku] m_OnlyFillUpToBubaknum: 0
+2024-04-10T04:28:35Z [SpawnerBubaku] m_BubakNum: 5
+2024-04-10T04:28:35Z [SpawnerBubaku] m_SpawnLocations.Count(): 8
+2024-04-10T04:28:35Z [SpawnerBubaku] SpawnerBubaku_GetActiveObjectsNum(): 0
+2024-04-10T04:28:35Z [SpawnerBubaku] Need to create: 5
+2024-04-10T04:28:35Z [SpawnerBubaku] random position index: 0
+2024-04-10T04:28:35Z [SpawnerBubaku] Created bubak: 353476
+2024-04-10T04:28:35Z [SpawnerBubaku] pos: <3987.982666, 36.140648, 8165.933594>
+2024-04-10T04:28:35Z [SpawnerBubaku] random position index: 0
+2024-04-10T04:28:35Z [SpawnerBubaku] Created bubak: 353477
+2024-04-10T04:28:35Z [SpawnerBubaku] pos: <3994.826172, 36.181381, 8168.625488>
+2024-04-10T04:28:35Z [SpawnerBubaku] random position index: 5
+2024-04-10T04:28:35Z [SpawnerBubaku] Created bubak: 353478
+2024-04-10T04:28:35Z [SpawnerBubaku] pos: <3988.169678, 36.182724, 8199.458008>
+2024-04-10T04:28:35Z [SpawnerBubaku] random position index: 0
+2024-04-10T04:28:35Z [SpawnerBubaku] Created bubak: 353479
+2024-04-10T04:28:35Z [SpawnerBubaku] pos: <3995.409912, 36.182346, 8174.441895>
+2024-04-10T04:28:35Z [SpawnerBubaku] random position index: 3
+2024-04-10T04:28:35Z [SpawnerBubaku] Created bubak: 353480
+2024-04-10T04:28:35Z [SpawnerBubaku] pos: <3995.144531, 36.182293, 8196.884766>
+2024-04-10T04:28:35Z [SpawnerBubaku] BATTLESQUATCH triggered Bunker South Trigger Lvl1
+2024-04-10T04:28:36Z [SpawnerBubaku] SpawnerBubaku EXIT
+2024-04-10T04:28:59Z [SpawnerBubaku] SpawnerBubaku ENTER
+2024-04-10T04:28:59Z [SpawnerBubaku] Triggered Bunker South Trigger Lvl1 time 977
+2024-04-10T04:28:59Z [SpawnerBubaku] Cannot trigger action it was called at 953
+2024-04-10T04:29:00Z [SpawnerBubaku] SpawnerBubaku EXIT
+2024-04-10T19:09:35Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-10T19:09:35Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-10T19:09:35Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-10T20:25:35Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-10T20:25:35Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-10T20:25:35Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-11T02:05:46Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-11T02:05:46Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-11T02:05:46Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-13T02:37:00Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-13T02:37:00Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-13T02:37:00Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-13T02:43:32Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-13T02:43:32Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-13T02:43:32Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-13T02:45:39Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-13T02:45:39Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-13T02:45:39Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-13T02:56:14Z [SpawnerBubaku] SpawnerBubaku ENTER
+2024-04-13T02:56:14Z [SpawnerBubaku] Triggered Bunker South Trigger Lvl1 time 645
+2024-04-13T02:56:14Z [SpawnerBubaku] Can trigger action 645 last 645 trigger delay 1800
+2024-04-13T02:56:14Z [SpawnerBubaku] m_OnlyFillUpToBubaknum: 0
+2024-04-13T02:56:14Z [SpawnerBubaku] m_BubakNum: 5
+2024-04-13T02:56:14Z [SpawnerBubaku] m_SpawnLocations.Count(): 8
+2024-04-13T02:56:14Z [SpawnerBubaku] SpawnerBubaku_GetActiveObjectsNum(): 0
+2024-04-13T02:56:14Z [SpawnerBubaku] Need to create: 5
+2024-04-13T02:56:14Z [SpawnerBubaku] random position index: 0
+2024-04-13T02:56:14Z [SpawnerBubaku] Created bubak: 354260
+2024-04-13T02:56:14Z [SpawnerBubaku] pos: <3987.982666, 36.140648, 8165.933594>
+2024-04-13T02:56:14Z [SpawnerBubaku] random position index: 4
+2024-04-13T02:56:14Z [SpawnerBubaku] Created bubak: 354261
+2024-04-13T02:56:14Z [SpawnerBubaku] pos: <3995.482910, 36.181187, 8190.229980>
+2024-04-13T02:56:14Z [SpawnerBubaku] random position index: 1
+2024-04-13T02:56:14Z [SpawnerBubaku] Created bubak: 354262
+2024-04-13T02:56:14Z [SpawnerBubaku] pos: <3995.409912, 36.182346, 8174.441895>
+2024-04-13T02:56:14Z [SpawnerBubaku] random position index: 2
+2024-04-13T02:56:14Z [SpawnerBubaku] Created bubak: 354263
+2024-04-13T02:56:14Z [SpawnerBubaku] pos: <3989.364014, 36.180817, 8188.008301>
+2024-04-13T02:56:14Z [SpawnerBubaku] random position index: 1
+2024-04-13T02:56:14Z [SpawnerBubaku] Created bubak: 354264
+2024-04-13T02:56:14Z [SpawnerBubaku] pos: <3988.343018, 36.182758, 8176.919434>
+2024-04-13T02:56:14Z [SpawnerBubaku] BATTLESQUATCH triggered Bunker South Trigger Lvl1
+2024-04-13T02:56:15Z [SpawnerBubaku] SpawnerBubaku EXIT
+2024-04-13T02:58:34Z [SpawnerBubaku] SpawnerBubaku ENTER
+2024-04-13T02:58:34Z [SpawnerBubaku] Triggered Bunker South Trigger Lvl1 time 784
+2024-04-13T02:58:34Z [SpawnerBubaku] Cannot trigger action it was called at 645
+2024-04-13T02:58:36Z [SpawnerBubaku] SpawnerBubaku EXIT
+2024-04-13T02:58:38Z [SpawnerBubaku] SpawnerBubaku ENTER
+2024-04-13T02:58:38Z [SpawnerBubaku] Triggered Bunker South Trigger Lvl1 time 788
+2024-04-13T02:58:38Z [SpawnerBubaku] Cannot trigger action it was called at 645
+2024-04-13T02:58:38Z [SpawnerBubaku] SpawnerBubaku EXIT
+2024-04-13T02:58:45Z [SpawnerBubaku] SpawnerBubaku ENTER
+2024-04-13T02:58:45Z [SpawnerBubaku] Triggered Bunker South Trigger Lvl1 time 795
+2024-04-13T02:58:45Z [SpawnerBubaku] Cannot trigger action it was called at 645
+2024-04-13T02:58:47Z [SpawnerBubaku] SpawnerBubaku EXIT
+2024-04-14T02:36:59Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-14T02:36:59Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-14T02:36:59Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-15T01:08:25Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-15T01:08:25Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-15T01:08:25Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-15T01:12:11Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-15T01:12:11Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-15T01:12:11Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-15T01:27:35Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-15T01:27:35Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-15T01:27:35Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-15T04:55:49Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-15T04:55:49Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-15T04:55:49Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-16T01:24:07Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-16T01:24:07Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-16T01:24:07Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-16T15:56:45Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-16T15:56:45Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-16T15:56:45Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-16T15:59:48Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-16T15:59:48Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-16T15:59:48Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-17T02:59:40Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-17T02:59:40Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-17T02:59:40Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-17T03:41:10Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-17T03:41:10Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-17T03:41:10Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-17T03:52:18Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-17T03:52:18Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-17T03:52:18Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-18T03:20:48Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-18T03:20:48Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-18T03:20:48Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-18T03:38:54Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-18T03:38:54Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-18T03:38:54Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-18T03:54:08Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-18T03:54:08Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-18T03:54:08Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-18T06:11:00Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-18T06:11:00Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-18T06:11:00Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-18T07:04:32Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-18T07:04:32Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-18T07:04:32Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-18T07:06:03Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-18T07:06:03Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-18T07:06:03Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-18T23:39:33Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-18T23:39:33Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-18T23:39:33Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-19T04:13:39Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-19T04:13:39Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-19T04:13:39Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-19T19:04:36Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-19T19:04:36Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-19T19:04:36Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-19T19:09:53Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-19T19:09:53Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-19T19:09:53Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-19T22:30:56Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-19T22:30:56Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-19T22:30:56Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-19T23:01:28Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-19T23:01:28Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-19T23:01:28Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-20T18:51:00Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-20T18:51:00Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-20T18:51:00Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-20T18:51:29Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-20T18:51:29Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-20T18:51:29Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-20T23:48:28Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-20T23:48:28Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-20T23:48:28Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-21T00:39:38Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-21T00:39:38Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-21T00:39:38Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-21T01:16:01Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-21T01:16:01Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-21T01:16:01Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-21T01:16:30Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-21T01:16:30Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-21T01:16:30Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-21T02:05:23Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-21T02:05:23Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-21T02:05:23Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-21T05:14:25Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-21T05:14:25Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-21T05:14:25Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-21T05:18:44Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-21T05:18:44Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-21T05:18:44Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-21T05:22:46Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-21T05:22:46Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-21T05:22:46Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-22T02:04:27Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-22T02:04:27Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-22T02:04:27Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-22T02:41:10Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-22T02:41:10Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-22T02:41:10Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-22T02:51:38Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-22T02:51:38Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-22T02:51:38Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-22T03:16:53Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-22T03:16:53Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-22T03:16:53Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-22T03:22:11Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-22T03:22:11Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-22T03:22:11Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-22T03:26:43Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-22T03:26:43Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-22T03:26:43Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-22T03:34:28Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-22T03:34:28Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-22T03:34:28Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-22T03:38:32Z [SpawnerBubaku] SpawnerBubaku ENTER
+2024-04-22T03:38:32Z [SpawnerBubaku] Triggered Bunker South Trigger Lvl1 time 253
+2024-04-22T03:38:32Z [SpawnerBubaku] Can trigger action 253 last 253 trigger delay 1800
+2024-04-22T03:38:32Z [SpawnerBubaku] m_OnlyFillUpToBubaknum: 0
+2024-04-22T03:38:32Z [SpawnerBubaku] m_BubakNum: 5
+2024-04-22T03:38:32Z [SpawnerBubaku] m_SpawnLocations.Count(): 8
+2024-04-22T03:38:32Z [SpawnerBubaku] SpawnerBubaku_GetActiveObjectsNum(): 0
+2024-04-22T03:38:32Z [SpawnerBubaku] Need to create: 5
+2024-04-22T03:38:32Z [SpawnerBubaku] random position index: 3
+2024-04-22T03:38:32Z [SpawnerBubaku] Created bubak: 354606
+2024-04-22T03:38:32Z [SpawnerBubaku] pos: <3988.343018, 36.182758, 8176.919434>
+2024-04-22T03:38:32Z [SpawnerBubaku] random position index: 1
+2024-04-22T03:38:32Z [SpawnerBubaku] Created bubak: 354607
+2024-04-22T03:38:32Z [SpawnerBubaku] pos: <3994.826172, 36.181381, 8168.625488>
+2024-04-22T03:38:32Z [SpawnerBubaku] random position index: 5
+2024-04-22T03:38:32Z [SpawnerBubaku] Created bubak: 354608
+2024-04-22T03:38:32Z [SpawnerBubaku] pos: <3988.169678, 36.182724, 8199.458008>
+2024-04-22T03:38:32Z [SpawnerBubaku] random position index: 0
+2024-04-22T03:38:32Z [SpawnerBubaku] Created bubak: 354609
+2024-04-22T03:38:32Z [SpawnerBubaku] pos: <3987.982666, 36.140648, 8165.933594>
+2024-04-22T03:38:32Z [SpawnerBubaku] random position index: 0
+2024-04-22T03:38:32Z [SpawnerBubaku] Created bubak: 354610
+2024-04-22T03:38:32Z [SpawnerBubaku] pos: <3995.409912, 36.182346, 8174.441895>
+2024-04-22T03:38:32Z [SpawnerBubaku] BATTLESQUATCH triggered Bunker South Trigger Lvl1
+2024-04-22T03:38:33Z [SpawnerBubaku] SpawnerBubaku EXIT
+2024-04-23T07:06:52Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-23T07:06:52Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-23T07:06:52Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-23T07:08:38Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-23T07:08:38Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-23T07:08:38Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-23T19:24:18Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-23T19:24:18Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-23T19:24:18Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-23T19:33:27Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-23T19:33:27Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-23T19:33:27Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-23T20:20:42Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-23T20:20:42Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-23T20:20:42Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-23T20:25:37Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-23T20:25:37Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-23T20:25:37Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-25T00:45:17Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-25T00:45:17Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-25T00:45:17Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-25T00:45:43Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-25T00:45:43Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-25T00:45:43Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-25T01:07:20Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-25T01:07:20Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-25T01:07:20Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-25T05:05:15Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-25T05:05:15Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-25T05:05:15Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-25T08:32:02Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-25T08:32:02Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-25T08:32:02Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-25T09:13:16Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-25T09:13:16Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-25T09:13:16Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-25T09:26:45Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-25T09:26:45Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-25T09:26:45Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-25T22:59:09Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-25T22:59:09Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-25T22:59:09Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-25T23:24:36Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-25T23:24:36Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-25T23:24:36Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-25T23:46:57Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-25T23:46:57Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-25T23:46:57Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-26T00:04:53Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-26T00:04:53Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-26T00:04:53Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-26T00:07:17Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-26T00:07:17Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-26T00:07:17Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-26T00:24:58Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-26T00:24:58Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-26T00:24:58Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-26T21:36:22Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-26T21:36:22Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-26T21:36:22Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-27T01:51:20Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-27T01:51:20Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-27T01:51:20Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-27T02:29:27Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-27T02:29:27Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-27T02:29:27Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-27T02:58:52Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-27T02:58:52Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-27T02:58:52Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-27T18:12:51Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-27T18:12:51Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-27T18:12:51Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-27T18:20:59Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-27T18:20:59Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-27T18:20:59Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-27T18:28:22Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-27T18:28:22Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-27T18:28:22Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-27T18:43:26Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-27T18:43:26Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-27T18:43:26Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-27T22:29:44Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-27T22:29:44Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-27T22:29:44Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-27T22:51:10Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-27T22:51:10Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-27T22:51:10Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-27T22:57:53Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-27T22:57:53Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-27T22:57:53Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-27T22:58:26Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-27T22:58:26Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-27T22:58:26Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T03:12:10Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T03:12:10Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T03:12:10Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T03:20:52Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T03:20:52Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T03:20:52Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T03:54:17Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T03:54:17Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T03:54:17Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T05:48:03Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T05:48:03Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T05:48:03Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T05:52:31Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T05:52:31Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T05:52:31Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T06:05:16Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T06:05:16Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T06:05:16Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T06:09:23Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T06:09:23Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T06:09:23Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T06:17:08Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T06:17:08Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T06:17:08Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T06:24:57Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T06:24:57Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T06:24:57Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T08:26:26Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T08:26:26Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T08:26:26Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T08:45:53Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T08:45:53Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T08:45:53Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T08:53:34Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T08:53:34Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T08:53:34Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T09:00:18Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T09:00:18Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T09:00:18Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T09:01:58Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T09:01:58Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T09:01:58Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T09:10:09Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T09:10:09Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T09:10:09Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T09:18:16Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T09:18:16Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T09:18:16Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T17:48:44Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T17:48:44Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T17:48:44Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T18:11:42Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T18:11:42Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T18:11:42Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T18:29:05Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T18:29:05Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T18:29:05Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T18:38:14Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T18:38:14Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T18:38:14Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T18:56:53Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T18:56:53Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T18:56:53Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T19:10:30Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T19:10:30Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T19:10:30Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T19:15:56Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T19:15:56Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T19:15:56Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T20:01:23Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T20:01:23Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T20:01:23Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T20:12:06Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T20:12:06Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T20:12:06Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T20:23:01Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T20:23:01Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T20:23:01Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T20:27:55Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T20:27:55Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T20:27:55Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T20:32:12Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T20:32:12Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T20:32:12Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T23:45:06Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T23:45:06Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T23:45:06Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-28T23:54:26Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-28T23:54:26Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-28T23:54:26Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-29T00:12:52Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-29T00:12:52Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-29T00:12:52Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-29T02:50:29Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-29T02:50:29Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-29T02:50:29Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-29T02:58:59Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-29T02:58:59Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-29T02:58:59Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-29T03:27:22Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-29T03:27:22Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-29T03:27:22Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-29T03:47:19Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-29T03:47:19Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-29T03:47:19Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-29T12:35:50Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-29T12:35:50Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-29T12:35:50Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-29T12:46:47Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-29T12:46:47Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-29T12:46:47Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-29T12:51:29Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-29T12:51:29Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-29T12:51:29Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-29T12:57:09Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-29T12:57:09Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-29T12:57:09Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-29T13:10:45Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-29T13:10:45Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-29T13:10:45Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-29T13:13:20Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-29T13:13:20Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-29T13:13:20Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-29T13:51:01Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-29T13:51:01Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-29T13:51:01Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-29T13:55:07Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-29T13:55:07Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-29T13:55:07Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-29T14:09:17Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-29T14:09:17Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-29T14:09:17Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-29T14:13:59Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-29T14:13:59Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-29T14:13:59Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-29T14:21:10Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-29T14:21:10Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-29T14:21:10Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-29T14:21:32Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-29T14:21:32Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-29T14:21:32Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-29T14:53:01Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-29T14:53:01Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-29T14:53:01Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-29T14:55:48Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-29T14:55:48Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-29T14:55:48Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-29T19:17:10Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-29T19:17:10Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-29T19:17:10Z [SpawnerBubaku] Added trigger to pool 1
+2024-04-30T23:36:51Z [SpawnerBubaku] SpawnerBubaku started!
+2024-04-30T23:36:51Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-04-30T23:36:51Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-01T00:10:47Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-01T00:10:47Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-01T00:10:47Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-01T07:59:12Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-01T07:59:12Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-01T07:59:12Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-01T09:44:38Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-01T09:44:38Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-01T09:44:38Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-01T10:24:26Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-01T10:24:26Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-01T10:24:26Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-01T10:28:33Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-01T10:28:33Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-01T10:28:33Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-01T11:34:11Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-01T11:34:11Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-01T11:34:11Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-01T11:36:13Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-01T11:36:13Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-01T11:36:13Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-01T11:43:27Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-01T11:43:27Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-01T11:43:27Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-01T11:51:11Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-01T11:51:11Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-01T11:51:11Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-01T11:51:36Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-01T11:51:36Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-01T11:51:36Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-01T11:57:38Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-01T11:57:38Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-01T11:57:38Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-01T11:58:24Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-01T11:58:24Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-01T11:58:24Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-05T18:42:11Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-05T18:42:11Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-05T18:42:11Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-05T18:46:03Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-05T18:46:03Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-05T18:46:03Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-06T03:04:32Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-06T03:04:32Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-06T03:04:32Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-06T03:13:50Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-06T03:13:50Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-06T03:13:50Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-06T03:16:34Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-06T03:16:34Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-06T03:16:34Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-06T03:19:07Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-06T03:19:07Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-06T03:19:07Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-06T03:24:21Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-06T03:24:21Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-06T03:24:21Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-06T16:17:58Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-06T16:17:58Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-06T16:17:58Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-06T16:32:39Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-06T16:32:39Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-06T16:32:39Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-06T18:52:04Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-06T18:52:04Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-06T18:52:04Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-06T19:09:16Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-06T19:09:16Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-06T19:09:16Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-06T19:14:52Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-06T19:14:52Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-06T19:14:52Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-06T19:32:46Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-06T19:32:46Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-06T19:32:46Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-06T19:35:18Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-06T19:35:18Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-06T19:35:18Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-06T19:44:23Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-06T19:44:23Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-06T19:44:23Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-06T20:02:38Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-06T20:02:38Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-06T20:02:38Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-06T20:14:27Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-06T20:14:27Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-06T20:14:27Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-06T22:10:27Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-06T22:10:27Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-06T22:10:27Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-07T02:15:10Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-07T02:15:10Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-07T02:15:10Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-07T08:23:10Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-07T08:23:10Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-07T08:23:10Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-07T13:18:58Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-07T13:18:58Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-07T13:18:58Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-07T13:22:14Z [SpawnerBubaku] SpawnerBubaku ENTER
+2024-05-07T13:22:14Z [SpawnerBubaku] Triggered Bunker South Trigger Lvl1 time 207
+2024-05-07T13:22:14Z [SpawnerBubaku] Can trigger action 207 last 207 trigger delay 1800
+2024-05-07T13:22:14Z [SpawnerBubaku] m_OnlyFillUpToBubaknum: 0
+2024-05-07T13:22:14Z [SpawnerBubaku] m_BubakNum: 5
+2024-05-07T13:22:14Z [SpawnerBubaku] m_SpawnLocations.Count(): 8
+2024-05-07T13:22:14Z [SpawnerBubaku] SpawnerBubaku_GetActiveObjectsNum(): 0
+2024-05-07T13:22:14Z [SpawnerBubaku] Need to create: 5
+2024-05-07T13:22:14Z [SpawnerBubaku] random position index: 4
+2024-05-07T13:22:14Z [SpawnerBubaku] Created bubak: 355546
+2024-05-07T13:22:14Z [SpawnerBubaku] pos: <3989.364014, 36.180817, 8188.008301>
+2024-05-07T13:22:14Z [SpawnerBubaku] random position index: 4
+2024-05-07T13:22:14Z [SpawnerBubaku] Created bubak: 355547
+2024-05-07T13:22:14Z [SpawnerBubaku] pos: <3995.482910, 36.181187, 8190.229980>
+2024-05-07T13:22:14Z [SpawnerBubaku] random position index: 4
+2024-05-07T13:22:14Z [SpawnerBubaku] Created bubak: 355548
+2024-05-07T13:22:14Z [SpawnerBubaku] pos: <3995.144531, 36.182293, 8196.884766>
+2024-05-07T13:22:14Z [SpawnerBubaku] random position index: 4
+2024-05-07T13:22:14Z [SpawnerBubaku] Created bubak: 355549
+2024-05-07T13:22:14Z [SpawnerBubaku] pos: <3988.169678, 36.182724, 8199.458008>
+2024-05-07T13:22:14Z [SpawnerBubaku] random position index: 1
+2024-05-07T13:22:14Z [SpawnerBubaku] Created bubak: 355550
+2024-05-07T13:22:14Z [SpawnerBubaku] pos: <3994.826172, 36.181381, 8168.625488>
+2024-05-07T13:22:14Z [SpawnerBubaku] BATTLESQUATCH triggered Bunker South Trigger Lvl1
+2024-05-07T13:22:15Z [SpawnerBubaku] SpawnerBubaku EXIT
+2024-05-07T13:53:37Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-07T13:53:37Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-07T13:53:37Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-07T13:56:01Z [SpawnerBubaku] SpawnerBubaku ENTER
+2024-05-07T13:56:01Z [SpawnerBubaku] Triggered Bunker South Trigger Lvl1 time 154
+2024-05-07T13:56:01Z [SpawnerBubaku] Can trigger action 154 last 154 trigger delay 1800
+2024-05-07T13:56:01Z [SpawnerBubaku] m_OnlyFillUpToBubaknum: 0
+2024-05-07T13:56:01Z [SpawnerBubaku] m_BubakNum: 5
+2024-05-07T13:56:01Z [SpawnerBubaku] m_SpawnLocations.Count(): 8
+2024-05-07T13:56:01Z [SpawnerBubaku] SpawnerBubaku_GetActiveObjectsNum(): 0
+2024-05-07T13:56:01Z [SpawnerBubaku] Need to create: 5
+2024-05-07T13:56:01Z [SpawnerBubaku] random position index: 1
+2024-05-07T13:56:01Z [SpawnerBubaku] Created bubak: 355310
+2024-05-07T13:56:01Z [SpawnerBubaku] pos: <3994.826172, 36.181381, 8168.625488>
+2024-05-07T13:56:01Z [SpawnerBubaku] random position index: 2
+2024-05-07T13:56:01Z [SpawnerBubaku] Created bubak: 355311
+2024-05-07T13:56:01Z [SpawnerBubaku] pos: <3988.343018, 36.182758, 8176.919434>
+2024-05-07T13:56:01Z [SpawnerBubaku] random position index: 0
+2024-05-07T13:56:01Z [SpawnerBubaku] Created bubak: 355312
+2024-05-07T13:56:01Z [SpawnerBubaku] pos: <3987.982666, 36.140648, 8165.933594>
+2024-05-07T13:56:01Z [SpawnerBubaku] random position index: 3
+2024-05-07T13:56:01Z [SpawnerBubaku] Created bubak: 355313
+2024-05-07T13:56:01Z [SpawnerBubaku] pos: <3995.144531, 36.182293, 8196.884766>
+2024-05-07T13:56:01Z [SpawnerBubaku] random position index: 1
+2024-05-07T13:56:01Z [SpawnerBubaku] Created bubak: 355314
+2024-05-07T13:56:01Z [SpawnerBubaku] pos: <3989.364014, 36.180817, 8188.008301>
+2024-05-07T13:56:01Z [SpawnerBubaku] BATTLESQUATCH triggered Bunker South Trigger Lvl1
+2024-05-07T13:56:03Z [SpawnerBubaku] SpawnerBubaku EXIT
+2024-05-08T10:09:31Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-08T10:09:31Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-08T10:09:31Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-08T11:36:19Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-08T11:36:19Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-08T11:36:19Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-10T08:19:13Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-10T08:19:13Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-10T08:19:13Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-10T08:21:50Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-10T08:21:50Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-10T08:21:50Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-10T09:21:02Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-10T09:21:02Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-10T09:21:02Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-10T09:41:34Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-10T09:41:34Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-10T09:41:34Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-10T10:03:20Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-10T10:03:20Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-10T10:03:20Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-10T11:47:35Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-10T11:47:35Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-10T11:47:35Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-10T13:22:18Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-10T13:22:18Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-10T13:22:18Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-11T00:38:07Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-11T00:38:07Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-11T00:38:07Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-11T00:38:34Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-11T00:38:34Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-11T00:38:34Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-11T00:42:35Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-11T00:42:35Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-11T00:42:35Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-11T00:43:58Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-11T00:43:58Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-11T00:43:58Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-11T00:49:05Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-11T00:49:05Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-11T00:49:05Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-11T00:49:34Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-11T00:49:34Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-11T00:49:34Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-11T00:54:03Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-11T00:54:03Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-11T00:54:03Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-11T01:01:40Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-11T01:01:40Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-11T01:01:40Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-11T01:03:49Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-11T01:03:49Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-11T01:03:49Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-11T01:07:00Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-11T01:07:00Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-11T01:07:00Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-11T10:45:52Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-11T10:45:52Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-11T10:45:52Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-11T10:47:15Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-11T10:47:15Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-11T10:47:15Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-11T10:48:13Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-11T10:48:13Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-11T10:48:13Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-11T11:07:45Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-11T11:07:45Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-11T11:07:45Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-11T11:09:19Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-11T11:09:19Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-11T11:09:19Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-11T11:16:43Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-11T11:16:43Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-11T11:16:43Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-11T11:17:11Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-11T11:17:11Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-11T11:17:11Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-11T11:17:27Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-11T11:17:27Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-11T11:17:27Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-11T11:25:45Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-11T11:25:45Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-11T11:25:45Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-11T11:28:05Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-11T11:28:05Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-11T11:28:05Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-11T12:52:28Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-11T12:52:28Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-11T12:52:28Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-12T05:38:52Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-12T05:38:52Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-12T05:38:52Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-12T05:45:11Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-12T05:45:11Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-12T05:45:11Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-12T05:49:03Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-12T05:49:03Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-12T05:49:03Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-12T06:37:52Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-12T06:37:52Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-12T06:37:52Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-12T10:33:19Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-12T10:33:19Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-12T10:33:19Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-13T18:51:59Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-13T18:51:59Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-13T18:51:59Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-14T04:27:09Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-14T04:27:09Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-14T04:27:09Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-14T05:21:48Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-14T05:21:48Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-14T05:21:48Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-14T07:19:36Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-14T07:19:36Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-14T07:19:36Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-14T07:24:19Z [SpawnerBubaku] SpawnerBubaku ENTER
+2024-05-14T07:24:19Z [SpawnerBubaku] Triggered Bunker South Trigger Lvl1 time 291
+2024-05-14T07:24:19Z [SpawnerBubaku] Can trigger action 291 last 291 trigger delay 1800
+2024-05-14T07:24:19Z [SpawnerBubaku] m_OnlyFillUpToBubaknum: 0
+2024-05-14T07:24:19Z [SpawnerBubaku] m_BubakNum: 5
+2024-05-14T07:24:19Z [SpawnerBubaku] m_SpawnLocations.Count(): 8
+2024-05-14T07:24:19Z [SpawnerBubaku] SpawnerBubaku_GetActiveObjectsNum(): 0
+2024-05-14T07:24:19Z [SpawnerBubaku] Need to create: 5
+2024-05-14T07:24:19Z [SpawnerBubaku] random position index: 0
+2024-05-14T07:24:19Z [SpawnerBubaku] Created bubak: 360954
+2024-05-14T07:24:19Z [SpawnerBubaku] pos: <3987.982666, 36.140648, 8165.933594>
+2024-05-14T07:24:19Z [SpawnerBubaku] random position index: 5
+2024-05-14T07:24:19Z [SpawnerBubaku] Created bubak: 360955
+2024-05-14T07:24:19Z [SpawnerBubaku] pos: <3995.144531, 36.182293, 8196.884766>
+2024-05-14T07:24:19Z [SpawnerBubaku] random position index: 5
+2024-05-14T07:24:19Z [SpawnerBubaku] Created bubak: 360956
+2024-05-14T07:24:19Z [SpawnerBubaku] pos: <3988.169678, 36.182724, 8199.458008>
+2024-05-14T07:24:19Z [SpawnerBubaku] random position index: 3
+2024-05-14T07:24:19Z [SpawnerBubaku] Created bubak: 360957
+2024-05-14T07:24:19Z [SpawnerBubaku] pos: <3989.364014, 36.180817, 8188.008301>
+2024-05-14T07:24:19Z [SpawnerBubaku] random position index: 3
+2024-05-14T07:24:19Z [SpawnerBubaku] Created bubak: 360958
+2024-05-14T07:24:19Z [SpawnerBubaku] pos: <3995.482910, 36.181187, 8190.229980>
+2024-05-14T07:24:19Z [SpawnerBubaku] BATTLESQUATCH triggered Bunker South Trigger Lvl1
+2024-05-14T07:24:19Z [SpawnerBubaku] SpawnerBubaku EXIT
+2024-05-14T10:47:44Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-14T10:47:44Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-14T10:47:44Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-14T11:04:47Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-14T11:04:47Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-14T11:04:47Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-14T11:06:25Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-14T11:06:25Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-14T11:06:25Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-14T11:09:04Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-14T11:09:04Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-14T11:09:04Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-14T14:31:12Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-14T14:31:12Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-14T14:31:12Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-14T21:53:11Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-14T21:53:11Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-14T21:53:11Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-14T23:01:50Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-14T23:01:50Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-14T23:01:50Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-14T23:08:14Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-14T23:08:14Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-14T23:08:14Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-15T01:17:51Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-15T01:17:51Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-15T01:17:51Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-15T01:48:36Z [SpawnerBubaku] SpawnerBubaku started!
+2024-05-15T01:48:36Z [SpawnerBubaku] Created trigger Bunker South Trigger Lvl1 at 4006.961670 39.441139 8156.195801 ori: 0 0 0
+2024-05-15T01:48:36Z [SpawnerBubaku] Added trigger to pool 1
+2024-05-15T01:53:21Z [SpawnerBubaku] SpawnerBubaku ENTER
+2024-05-15T01:53:21Z [SpawnerBubaku] Triggered Bunker South Trigger Lvl1 time 294
+2024-05-15T01:53:21Z [SpawnerBubaku] Can trigger action 294 last 294 trigger delay 1800
+2024-05-15T01:53:21Z [SpawnerBubaku] m_OnlyFillUpToBubaknum: 0
+2024-05-15T01:53:21Z [SpawnerBubaku] m_BubakNum: 5
+2024-05-15T01:53:21Z [SpawnerBubaku] m_SpawnLocations.Count(): 8
+2024-05-15T01:53:21Z [SpawnerBubaku] SpawnerBubaku_GetActiveObjectsNum(): 0
+2024-05-15T01:53:21Z [SpawnerBubaku] Need to create: 5
+2024-05-15T01:53:21Z [SpawnerBubaku] random position index: 0
+2024-05-15T01:53:21Z [SpawnerBubaku] Created bubak: 359487
+2024-05-15T01:53:21Z [SpawnerBubaku] pos: <3987.982666, 36.140648, 8165.933594>
+2024-05-15T01:53:21Z [SpawnerBubaku] random position index: 1
+2024-05-15T01:53:21Z [SpawnerBubaku] Created bubak: 359488
+2024-05-15T01:53:21Z [SpawnerBubaku] pos: <3995.409912, 36.182346, 8174.441895>
+2024-05-15T01:53:21Z [SpawnerBubaku] random position index: 1
+2024-05-15T01:53:21Z [SpawnerBubaku] Created bubak: 359489
+2024-05-15T01:53:21Z [SpawnerBubaku] pos: <3988.343018, 36.182758, 8176.919434>
+2024-05-15T01:53:21Z [SpawnerBubaku] random position index: 1
+2024-05-15T01:53:21Z [SpawnerBubaku] Created bubak: 359490
+2024-05-15T01:53:21Z [SpawnerBubaku] pos: <3989.364014, 36.180817, 8188.008301>
+2024-05-15T01:53:21Z [SpawnerBubaku] random position index: 0
+2024-05-15T01:53:21Z [SpawnerBubaku] Created bubak: 359491
+2024-05-15T01:53:21Z [SpawnerBubaku] pos: <3994.826172, 36.181381, 8168.625488>
+2024-05-15T01:53:21Z [SpawnerBubaku] BATTLESQUATCH triggered Bunker South Trigger Lvl1
+2024-05-15T01:53:21Z [SpawnerBubaku] SpawnerBubaku EXIT
+2024-05-15T02:04:13Z [SpawnerBubaku] SpawnerBubaku ENTER
+2024-05-15T02:04:13Z [SpawnerBubaku] Triggered Bunker South Trigger Lvl1 time 946
+2024-05-15T02:04:13Z [SpawnerBubaku] Cannot trigger action it was called at 294
+2024-05-15T02:04:14Z [SpawnerBubaku] SpawnerBubaku EXIT
+2024-05-15T02:04:39Z [SpawnerBubaku] SpawnerBubaku ENTER
+2024-05-15T02:04:39Z [SpawnerBubaku] Triggered Bunker South Trigger Lvl1 time 972
+2024-05-15T02:04:39Z [SpawnerBubaku] Cannot trigger action it was called at 294
+2024-05-15T02:04:40Z [SpawnerBubaku] SpawnerBubaku EXIT
