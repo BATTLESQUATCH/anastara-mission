@@ -1,0 +1,51 @@
+{
+    "Triggers":
+	[
+		{ 	
+			"Position": [ 4883.54, 38.885, 4259.05],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 140, 12, 100 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 0.6
+		},
+		{ 	
+			"Position": [ 4028.87, 14.774, 5821.37],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 140, 40, 100 ],
+			"EyeAccommodation": 0.1,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 0.6
+		},
+		{ 	
+			"Position": [ 4028.87, 35.222, 5821.37],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 140, 20, 100 ],
+			"EyeAccommodation": 0.1,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 0.6
+		},
+		{ 	
+			"Position": [ 3949.345703, 32.222, 8312.045898],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 600, 35, 600 ],
+			"EyeAccommodation": 0.3,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1.0
+		},
+		{ 	
+			"Position": [ 3949.345703, 0, 8312.045898],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 600, 55, 600 ],
+			"EyeAccommodation": 0.0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1.0
+		}
+		
+		
+	]
+}
+
+
+
+

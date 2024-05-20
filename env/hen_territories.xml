@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="3556750600">
+        <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="1" x="1383.26" z="2862.57" r="100"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="1" x="1258.29" z="3791.59" r="100"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="1" x="2226.26" z="3073.67" r="100"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="1" x="3997.43" z="2218.58" r="100"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="1" x="5278.86" z="2286.89" r="100"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="1" x="7115.44" z="2229.41" r="100"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="1" x="9269.19" z="3757.81" r="100"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="1" x="9429.28" z="4013.71" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="5" dmax="7" x="9203.33" z="4606.67" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="5" dmax="7" x="7963.33" z="5670" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="5" dmax="7" x="7180" z="5720" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="5" dmax="7" x="7325" z="3780" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="5" dmax="7" x="8455" z="4950" r="100"/>
+    </territory>
+</territory-type>
