@@ -58,6 +58,8 @@ The following community members were critical to the Anastara project:
  - lottie
  - spaggie
  - livingxdead
+ - filthysausage
+ - dirtyburglar
 
 If I missed anyone, please don't be shy and let me know.  
 
