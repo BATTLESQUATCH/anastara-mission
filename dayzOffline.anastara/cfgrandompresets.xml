@@ -213,7 +213,8 @@
 				<item name="TunaCan" chance="0.1" />
 				<item name="SardinesCan" chance="0.05" />
 				<item name="BakedBeansCan" chance="0.05" />
-				<item name="TacticalBaconCan" chance="0.15" />
+				<item name="TacticalBaconCan" chance="0.1" />
+				<item name="PunchedCard" chance="0.15" />
 				<item name="Canteen" chance="0.1" />
 				<item name="Ammo_45ACP" chance="0.2" />
 				<item name="AmmoBox_45ACP_25Rnd" chance="0.05" />
@@ -236,9 +237,9 @@
 				<item name="ReflexOptic" chance="0.20" />
 		</attachments>
 		<!--NBC Cargo-->
-		<cargo chance="0.2" name="ContaminatedCargo">
-				<item name="GasMask_Filter" chance="1.00" />
-				<item name="PunchedCard" chance="0.05" />
+		<cargo chance="0.3" name="ContaminatedCargo">
+				<item name="GasMask_Filter" chance="0.90" />
+				<item name="PunchedCard" chance="0.90" />
 		</cargo>
 		<!--FARM ATTACHMENTS-->
 		<attachments chance="0.20" name="hatsFarm">

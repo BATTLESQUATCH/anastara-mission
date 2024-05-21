@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <spawnabletypes>
+
+	<type name="M14">
+		<damage min="0.0" max="0.0" />
+	</type>
+	
+	<type name="Mag_M14_10Rnd">
+		<damage min="0.0" max="0.0" />
+	</type>
+	
+	<type name="FAL">
+		<damage min="0.0" max="0.0" />
+	</type>
+	
+	<type name="Mag_FAL_20Rnd">
+		<damage min="0.0" max="0.0" />
+	</type>
 	
 	<type name="land_exocrate1">
 		<damage min="0.0" max="0.0" />
