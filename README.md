@@ -8,6 +8,8 @@ config-profiles:  optional config files for Gebs Fish, SimpleSpawner and Spawner
 
 dayzOffline.anastara:  standard XMLs for mission (territories, types, etc.)
 
+cle:  central loot economy files for DayZ tools economy editor
+
 ### Core server-side mods
 @CJ187-SimpleSpawner: allows spawning of CJ_Armed_LandMineTrap for minefields (optional, do not include to disable minefields entirely)
 
