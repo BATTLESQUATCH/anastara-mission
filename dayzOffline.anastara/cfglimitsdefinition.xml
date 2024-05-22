@@ -32,6 +32,7 @@
         <usage name="Lunapark"/>
         <usage name="SeasonalEvent"/>
         <usage name="ContaminatedArea"/>
+		<usage name="Underground"/>
         <usage name="Historical"/>
     </usageflags>
     <valueflags>
