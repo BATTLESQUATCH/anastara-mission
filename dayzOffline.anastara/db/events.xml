@@ -166,8 +166,8 @@
         <active>1</active>
         <children>
 
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bo105m_blackcamo"/>
-			<child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_UH1H"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="RFFSHeli_Bo105m_blackcamo"/>
+			<child lootmax="0" lootmin="0" max="1" min="1" type="RFFSHeli_UH1H"/>
 
         </children>
     </event>
