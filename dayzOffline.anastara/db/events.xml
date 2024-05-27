@@ -14,43 +14,7 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-			<child lootmax="0" lootmin="0" max="11" min="11" type="PunchedCard"/>
-        </children>
-    </event>
-	
-	<event name="StaticM14">
-        <nominal>4</nominal>
-        <min>2</min>
-        <max>4</max>
-        <lifetime>600</lifetime>
-        <restock>3</restock>
-        <saferadius>100</saferadius>
-        <distanceradius>2</distanceradius>
-        <cleanupradius>200</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>mixed</limit>
-        <active>1</active>
-        <children>
-			<child lootmax="0" lootmin="0" max="4" min="4" type="M14"/>
-        </children>
-    </event>
-	
-	<event name="StaticFAL">
-        <nominal>4</nominal>
-        <min>2</min>
-        <max>4</max>
-        <lifetime>600</lifetime>
-        <restock>3</restock>
-        <saferadius>100</saferadius>
-        <distanceradius>2</distanceradius>
-        <cleanupradius>200</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>mixed</limit>
-        <active>1</active>
-        <children>
-			<child lootmax="0" lootmin="0" max="4" min="4" type="FAL"/>
+			<child lootmax="0" lootmin="0" max="1" min="1" type="PunchedCard"/>
         </children>
     </event>
 	
@@ -89,26 +53,6 @@
 			<child lootmax="0" lootmin="0" max="6" min="6" type="Exo_Manual"/>
         </children>
     </event>
-	
-	<event name="StaticExo_WireHarness">
-        <nominal>6</nominal>
-        <min>6</min>
-        <max>9</max>
-        <lifetime>600</lifetime>
-        <restock>3</restock>
-        <saferadius>100</saferadius>
-        <distanceradius>2</distanceradius>
-        <cleanupradius>200</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>mixed</limit>
-        <active>1</active>
-        <children>
-			<child lootmax="0" lootmin="0" max="9" min="9" type="land_exocrate2"/>
-        </children>
-    </event>
-	
-	 
 
 	<event name="VehicleRFWC_Watercraft">
 		<nominal>11</nominal>
@@ -166,8 +110,8 @@
         <active>1</active>
         <children>
 
-            <child lootmax="0" lootmin="0" max="1" min="1" type="RFFSHeli_Bo105m_blackcamo"/>
-			<child lootmax="0" lootmin="0" max="1" min="1" type="RFFSHeli_UH1H"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bo105m_blackcamo"/>
+			<child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_UH1H"/>
 
         </children>
     </event>
