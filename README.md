@@ -25,9 +25,11 @@ Minefields can have significant performance impact depending on your server spec
  - to remove all armed mines currently in the world, rename @Anastara/CJ187_ArmedMines.pbo to @Anastara/CJ187_ArmedMines.old (or .backup or whatever) and restart server.  This removes all existing landmines, then rename @Anastara/CJ187_ArmedMines.pbo back to normal and restart server again.
 
 ### Required Mods
+ - Anastara
  - Anastara Server Pack
  - CF
  - Dabs Framework (for dynamic weather events by LIVINGxDEAD)
+ - Windstrides Clothing Pack
 
 ### Recommended Mods
 These mods improve the experience but are not dependencies:
