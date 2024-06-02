@@ -26,9 +26,9 @@
 			"InterpolationSpeed": 0.6
 		},
 		{ 	
-			"Position": [ 3949.345703, 39, 8312.045898],
+			"Position": [ 3949.345703, 42, 8312.045898],
 			"Orientation": [ 0, 0, 0 ],
-			"Size": [ 600, 24, 600 ],
+			"Size": [ 700, 14, 700 ],
 			"EyeAccommodation": 0.3,
 			"Breadcrumbs": [],
 			"InterpolationSpeed": 1.0
@@ -36,7 +36,7 @@
 		{ 	
 			"Position": [ 3949.345703, 0, 8312.045898],
 			"Orientation": [ 0, 0, 0 ],
-			"Size": [ 600, 65, 600 ],
+			"Size": [ 700, 68, 700 ],
 			"EyeAccommodation": 0.0,
 			"Breadcrumbs": [],
 			"InterpolationSpeed": 1.0
