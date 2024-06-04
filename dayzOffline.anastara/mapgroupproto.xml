@@ -20,7 +20,7 @@
 			<usage name="Hunting" />
 			<container name="lootFloor" lootmin="3" lootmax="3">
 						<category name="weapons" />
-						<category name="clothing" />
+						<category name="clothes" />
 						<category name="containers" />
 						<category name="food" />
 				<category name="containers" />
@@ -37,7 +37,7 @@
 			<container name="lootFloor" lootmin="3" lootmax="9">
 				<category name="tools" />
 				<category name="containers" />
-				<category name="clothing" />
+				<category name="clothes" />
 				<category name="containers" />
 				<category name="food" />
 				<point pos="2.595171 -0.453390 3.242589" range="1" height="1" /> 
@@ -59,7 +59,7 @@
 				<category name="weapons" />
 				<category name="tools" />
 				<category name="containers" />
-				<category name="clothing" />
+				<category name="clothes" />
 				<category name="food" />
 				<point pos="0.775517 -1.721435 1.330103" range="1" height="1" /> 
 				<point pos="-0.454900 -1.721435 -0.656012" range="1" height="1" /> 
@@ -76,7 +76,7 @@
 			<usage name="Military" />
 			<container name="lootFloor" lootmax="8">
 								<category name="weapons" />
-								<category name="clothing" />
+								<category name="clothes" />
 								<category name="containers" />
 								<category name="food" />
 				<point pos="1.501034 0.086557 -1.482828" range="1" height="1" /> 
