@@ -8,7 +8,6 @@
 			<export name="PathR10" shape="dz\structures\Roads\Parts\path_rock_10.p3d" />
 			<export name="PathR30" shape="dz\structures\Roads\Parts\path_rock_30.p3d" />
 			<export name="Stones" shape="dz\rocks\stones_erosion.p3d" />
-			
 			<export name="Rail1" shape="dz\structures\rail\tracks\rail_track_25.p3d" />
 			<export name="Rail2" shape="dz\structures\rail\tracks\rail_tracke_25.p3d" />
 			<export name="Rail3" shape="dz\structures\rail\tracks\rail_tracke_40.p3d" />
@@ -24,7 +23,6 @@
 			<export name="Stone3" shape="dz\rocks\stone3.p3d" />
 			<export name="Stone4" shape="dz\rocks\stone4.p3d" />
 			<export name="Stone5" shape="dz\rocks\stone5.p3d" />
-
 			<export name="QuercusRobur_3d" shape="dz\plants\tree\t_quercusRobur_3d.p3d" />
 -->
 			<export name="AppleTree1" shape="dz\plants\tree\t_malusDomestica_1s.p3d" />
@@ -75,7 +73,6 @@
 			<export name="SambucusBush1" shape="dz\plants\bush\b_sambucusNigra_1s.p3d" />
 			<export name="SambucusBush2" shape="dz\plants\bush\b_sambucusNigra_2s.p3d" />
 		</clusters>
-
 <!--Groups -->
 <!--Apple -->
 		<cluster name="CaninaBush1" lootmax="2" maxinstances="150">
