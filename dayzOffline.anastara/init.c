@@ -4,9 +4,7 @@ void main()
 	Hive ce = CreateHive();
 	if ( ce )
 		ce.InitOffline();
-	
 	//GetCEApi().ExportProxyData("5120 0 5120", 10240);
-	
 	//GetCEApi().ExportClusterData();
 	//GetCEApi().ExportProxyProto();
 	//DATE RESET AFTER ECONOMY INIT-------------------------
@@ -34,11 +32,9 @@ void main()
 }
 class CustomMission: MissionServer
 {
-	
 	override void OnInit()
     {
         super.OnInit();
-        
         // Anastara Weather Events
         if ( m_EventManager )
         {
@@ -52,7 +48,6 @@ class CustomMission: MissionServer
             m_EventManager.RegisterEvent( LXDClearSkies, 0.0 );
         }
 	}
-	
 	void SetRandomHealth(EntityAI itemEnt)
 	{
 		if ( itemEnt )
@@ -61,7 +56,6 @@ class CustomMission: MissionServer
 			itemEnt.SetHealth01( "", "", rndHlt );
 		}
 	}
-	
 	override PlayerBase CreateCharacter(PlayerIdentity identity, vector pos, ParamsReadContext ctx, string characterName)
 	{
 		Entity playerEnt;
@@ -80,7 +74,6 @@ class CustomMission: MissionServer
 		if ( itemClothing )
 		{
 			SetRandomHealth( itemClothing );
-			
 			itemEnt = itemClothing.GetInventory().CreateInInventory( "BandageDressing" );
 			player.SetQuickBarEntityShortcut(itemEnt, 2);
 			string chemlightArray[] = { "Chemlight_White", "Chemlight_Yellow", "Chemlight_Green", "Chemlight_Red" };
@@ -89,16 +82,12 @@ class CustomMission: MissionServer
 			player.SetQuickBarEntityShortcut(itemEnt, 1);
 			SetRandomHealth( itemEnt );
 		}
-		
 			//EntityAI bandage = player.GetInventory().CreateInInventory("BandageDressing");
 			EntityAI tmap = player.GetInventory().CreateInInventory("ChernarusMap");
 			EntityAI splum = player.GetInventory().CreateInInventory("Plum");
-			
-		
 		itemClothing = player.FindAttachmentBySlotName( "Legs" );
 		if ( itemClothing )
 			SetRandomHealth( itemClothing );
-		
 		itemClothing = player.FindAttachmentBySlotName( "Feet" );
 	}
 };

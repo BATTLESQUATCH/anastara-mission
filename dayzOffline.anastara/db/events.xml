@@ -17,7 +17,6 @@
 			<child lootmax="0" lootmin="0" max="1" min="1" type="PunchedCard"/>
         </children>
     </event>
-	
 	<event name="StaticExo_Metamaterials">
         <nominal>4</nominal>
         <min>4</min>
@@ -35,7 +34,6 @@
 			<child lootmax="0" lootmin="0" max="4" min="4" type="land_exocrate1"/>
         </children>
     </event>
-	
 	<event name="StaticExo_Manual">
         <nominal>6</nominal>
         <min>6</min>
@@ -73,7 +71,6 @@
 		  <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_Seadoo_Camo" />
 		</children>
 	</event>
-	
 	<event name="StaticAirplaneCrate">
         <nominal>3</nominal>
         <min>1</min>
@@ -93,7 +90,6 @@
             <child lootmax="8" lootmin="4" max="4" min="2" type="StaticObj_Misc_SupplyBox3_DE"/>
         </children>
     </event>
-	
 	<event name="VehicleHeliSpawn">
         <nominal>1</nominal>
         <min>1</min>
@@ -112,7 +108,6 @@
 			<child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_UH1H"/>
         </children>
     </event>
-	
 	<event name="AnimalCrocodile">
         <nominal>3</nominal>
         <min>1</min>
@@ -127,9 +122,7 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-           
             <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_Crocodile_Brown"/>
-   	   
         </children>
     </event>
     <event name="AmbientHen">
@@ -1230,6 +1223,4 @@
             <child lootmax="0" lootmin="0" max="2" min="1" type="Truck_01_Covered_Orange"/>
         </children>
     </event>
-	
-	
 </events>

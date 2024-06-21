@@ -360,7 +360,6 @@
 			<item name="DryBag_Black" chance="0.1" />
 			<item name="DryBag_Red" chance="0.20" />
 		</attachments>
-		
 		<!--FIREFIGHTER ATTACHMENTS-->
 		<attachments chance="1.00" name="hatsFirefighter">
 				<item name="FirefightersHelmet_White" chance="0.33" />
@@ -383,7 +382,6 @@
 			<item name="MilitaryBeret_NZ" chance="0.10" />
 			<item name="MilitaryBeret_ChDKZ" chance="0.05" />
 			<item name="MilitaryBeret_CDF" chance="0.05" />
-			
 		</attachments>
 		<attachments chance="0.00" name="glassesArmy"> <!--was chance="0.10"; removed coz of attachment slot is missing -->
 			<item name="TacticalGoggles" chance="0.10" />
@@ -404,7 +402,6 @@
 			<item name="SmershBag" chance="0.05" />
 			<item name="CoyoteBag_Brown" chance="0.05" />
 			<item name="CoyoteBag_Green" chance="0.05" />
-			
 		</attachments>
 		<attachments chance="1.00" name="HeavyArmorArmy">
 			<item name="PressVest_Black_NoLabel" chance="1.00" />
@@ -422,7 +419,6 @@
 		<attachments chance="1.00" name="vestsPolice">
 				<item name="PoliceVest" chance="1.00" />
 		</attachments>
-		
 		<!--PRISONER ATTACHMENTS-->
 		<attachments chance="0.20" name="hatsPrisoner">
 				<item name="PrisonerCap" chance="1.00" />
@@ -448,7 +444,6 @@
 				<item name="PressVest_Blue" chance="0.25" />
 				<item name="PressVest_LightBlue" chance="0.25" />
 		</attachments>
-		
 		<!--T1 GEAR-->
 		<cargo chance="0.15" name="drinks_T1">
 				<item name="SodaCan_Cola" chance="0.10" />
@@ -487,7 +482,6 @@
 				<item name="Paper" chance="0.2" />
 				<item name="Pipe" chance="0.2" />
 		</cargo>
-		
 		<!--T1 Attachments-->
 		<attachments chance="0.2" name="helmetsCommon_T1">
 				<item name="SkateHelmet_Black" chance="0.1" />
@@ -514,7 +508,6 @@
 				<item name="TaloonBag_Violet" chance="0.2" />
 				<item name="FurCourierBag" chance="0.1" />
 		</attachments>
-		
 		<!--Xmas Clothing-->
 		<attachments chance="1.00" name="SantaHat">
 			<item name="SantasHat" chance="1.00" />
@@ -526,7 +519,6 @@
 			<item name="GiftBox_Small_4" chance="0.20" />
 			<item name="SantasBeard" chance="0.80" />
 		</cargo>
-		
 		<!--Xmas GiftBoxes-->
 		<cargo chance="1.0" name="Xmas_Clothes_Small">
 			<item name="TacticalGoggles" chance="0.05" />

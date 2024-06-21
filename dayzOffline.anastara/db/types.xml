@@ -11,7 +11,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="explosives"/>
-       
 	</type>
 	<type name="PunchedCard">
         <nominal>15</nominal>
@@ -37,7 +36,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
     </type>
-	
 	<type name="Tshirt_squatch">
         <nominal>0</nominal>
         <lifetime>900</lifetime>
@@ -54,7 +52,6 @@
 		<usage name="Industrial"/>
         <value name="Tier1"/>
     </type>
-	
 	<type name="Tshirt_unwell">
         <nominal>0</nominal>
         <lifetime>900</lifetime>
@@ -71,7 +68,6 @@
 		<usage name="Industrial"/>
         <value name="Tier1"/>
     </type>
-	
 	<type name="Tshirt_dirtyfresh">
         <nominal>0</nominal>
         <lifetime>900</lifetime>
@@ -88,7 +84,6 @@
 		<usage name="Industrial"/>
         <value name="Tier1"/>
     </type>
-	
 	<type name="Tshirt_fishhouse">
         <nominal>0</nominal>
         <lifetime>900</lifetime>
@@ -105,7 +100,6 @@
 		<usage name="Industrial"/>
         <value name="Tier1"/>
     </type>
-	
 	<type name="BDUJacket_urban">
         <nominal>10</nominal>
         <lifetime>900</lifetime>
@@ -118,7 +112,6 @@
         <category name="clothes"/>
         <usage name="Military"/>
 	</type>
-	
 	<type name="BDUPants_urban">
         <nominal>10</nominal>
         <lifetime>900</lifetime>
@@ -131,7 +124,6 @@
         <category name="clothes"/>
         <usage name="Military"/>
 	</type>
-	
 	<type name="Winter_Parka_Olive">
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
@@ -387,7 +379,6 @@
         <usage name="Police"/>
 		<value name="Tier1"/>
         <value name="Tier2"/>
-        
 	</type>
 	<type name="PressVest_Black">
         <nominal>0</nominal>
@@ -404,7 +395,6 @@
 		<usage name="Military"/>
 		<value name="Tier1"/>
         <value name="Tier2"/>
-        
 	</type>
 	<type name="PressVest_Black_NoLabel">
         <nominal>15</nominal>
@@ -421,7 +411,6 @@
 		<usage name="Military"/>
 		<value name="Tier1"/>
         <value name="Tier2"/>
-        
 	</type>
 	<type name="JumpsuitPants_Black">
         <nominal>20</nominal>
@@ -438,7 +427,6 @@
         <usage name="Village"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
-        
 	</type>
 	<type name="HuntingBag_Black">
         <nominal>20</nominal>
@@ -489,7 +477,6 @@
 		<usage name="Industrial"/>
 		<usage name="Farm"/>
         <usage name="School"/>
-        
 	</type>
 	<type name="BasicDrybag_Brown">
         <nominal>10</nominal>
@@ -508,7 +495,6 @@
 		<usage name="Industrial"/>
 		<usage name="Farm"/>
         <usage name="School"/>
-        
 	</type>
 	<type name="BasicDrybag_Green">
         <nominal>15</nominal>
@@ -545,7 +531,6 @@
 		<usage name="Industrial"/>
 		<usage name="Farm"/>
         <usage name="School"/>
-		
 	</type>
 	<type name="DenimJacket_Basic">
         <nominal>20</nominal>
@@ -934,7 +919,6 @@
         <usage name="School"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
-        
 	</type>
 	<type name="cricketmelee">
         <nominal>10</nominal>
@@ -948,7 +932,6 @@
         <category name="tools"/>
 		<usage name="Industrial"/>
 		<usage name="Farm"/>
-        
 	</type>
 	<type name="45carbine">
         <nominal>15</nominal>
@@ -999,7 +982,6 @@
         <usage name="Military"/>
         <value name="Tier3"/>
     </type>
-	
 	<type name="SV98">
         <nominal>3</nominal>
         <lifetime>7200</lifetime>
@@ -1118,7 +1100,6 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	
     <type name="ArmyPouch_Black">
         <nominal>10</nominal>
         <lifetime>14400</lifetime>
@@ -1134,7 +1115,6 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	
     <type name="ArmyPouch_Camo">
         <nominal>10</nominal>
         <lifetime>14400</lifetime>
@@ -1150,7 +1130,6 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	
     <type name="ArmyPouch_Green">
         <nominal>10</nominal>
         <lifetime>14400</lifetime>
@@ -1166,7 +1145,6 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	
 	<type name="CanvasBag_Medical">
         <nominal>10</nominal>
         <lifetime>14400</lifetime>
@@ -1181,7 +1159,6 @@
         <value name="Tier1"/>
         <value name="Tier2"/>
     </type>
-	
     <type name="CanvasBag_Olive">
         <nominal>10</nominal>
         <lifetime>14400</lifetime>
@@ -1196,7 +1173,6 @@
         <value name="Tier1"/>
         <value name="Tier2"/>
     </type>
-	
 	<type name="DuffelBagSmall_Camo">
         <nominal>10</nominal>
         <lifetime>14400</lifetime>
@@ -1211,7 +1187,6 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	
     <type name="DuffelBagSmall_Green">
         <nominal>10</nominal>
         <lifetime>14400</lifetime>
@@ -1226,7 +1201,6 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	
     <type name="DuffelBagSmall_Medical">
         <nominal>10</nominal>
         <lifetime>14400</lifetime>
@@ -1241,7 +1215,6 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	
 	<type name="HipPack_Black">
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
@@ -1254,7 +1227,6 @@
         <category name="containers"/>
         <usage name="Town"/>
     </type>
-	
     <type name="HipPack_Green">
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
@@ -1267,7 +1239,6 @@
         <category name="containers"/>
         <usage name="Village"/>
     </type>
-	
     <type name="HipPack_Medical">
         <nominal>3</nominal>
         <lifetime>14400</lifetime>
@@ -1280,7 +1251,6 @@
         <category name="containers"/>
         <usage name="Medic"/>
     </type>
-	
     <type name="HipPack_Party">
         <nominal>3</nominal>
         <lifetime>14400</lifetime>
@@ -1307,7 +1277,6 @@
         <value name="Tier1"/>
         <value name="Tier2"/>
     </type>
-	
     <type name="Slingbag_Brown">
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
@@ -1322,7 +1291,6 @@
         <value name="Tier1"/>
         <value name="Tier2"/>
     </type>
-	
     <type name="Slingbag_Gray">
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
@@ -1337,7 +1305,6 @@
         <value name="Tier1"/>
         <value name="Tier2"/>
     </type>
-	
 	 <type name="WoolGlovesFingerless_Black">
         <nominal>25</nominal>
         <lifetime>14400</lifetime>
@@ -1350,7 +1317,6 @@
         <category name="clothes"/>
         <usage name="Police"/>
     </type>
-	
     <type name="WoolGlovesFingerless_Green">
         <nominal>25</nominal>
         <lifetime>14400</lifetime>
@@ -1366,7 +1332,6 @@
         <value name="Tier2"/>
         <value name=""/>
     </type>
-	
     <type name="WoolGlovesFingerless_Tan">
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
@@ -1379,7 +1344,6 @@
         <category name="clothes"/>
         <usage name="Village"/>
     </type>
-	
 	<type name="WoolGlovesFingerless_White">
         <nominal>3</nominal>
         <lifetime>14400</lifetime>
@@ -1392,7 +1356,6 @@
         <category name="clothes"/>
         <usage name="Farm"/>
     </type>
-	
     <type name="WoolGloves_Black">
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
@@ -1405,7 +1368,6 @@
         <category name="clothes"/>
         <usage name="Police"/>
     </type>
-	
     <type name="WoolGloves_Green">
         <nominal>3</nominal>
         <lifetime>14400</lifetime>
@@ -1421,7 +1383,6 @@
         <value name="Tier2"/>
         <value name=""/>
     </type>
-	
     <type name="WoolGloves_Tan">
         <nominal>3</nominal>
         <lifetime>14400</lifetime>
@@ -1434,7 +1395,6 @@
         <category name="clothes"/>
         <usage name="Village"/>
     </type>
-	
     <type name="WoolGloves_White">
         <nominal>3</nominal>
         <lifetime>14400</lifetime>
@@ -1459,7 +1419,6 @@
 			<category name="weapons"/>
 			<usage name="ContaminatedArea"/>
 	 </type>
-	
 	 <type name="Mag_M14_10Rnd">
         <nominal>7</nominal>
         <lifetime>14400</lifetime>
@@ -1474,7 +1433,6 @@
         <value name="Tier3"/>
         <value name=""/>
     </type>
-	
     <type name="Mag_M14_20Rnd">
         <nominal>7</nominal>
         <lifetime>14400</lifetime>
@@ -1489,7 +1447,6 @@
         <value name="Tier3"/>
         <value name=""/>
     </type>
-	
 	<type name="PaddedGloves_Beige">
         <nominal>25</nominal>
         <lifetime>14400</lifetime>
@@ -1508,7 +1465,6 @@
 		<usage name="Farm"/>
         <usage name="School"/>
     </type>
-	
     <type name="PaddedGloves_Brown">
         <nominal>25</nominal>
         <lifetime>14400</lifetime>
@@ -1527,7 +1483,6 @@
 		<usage name="Farm"/>
         <usage name="School"/>
     </type>
-	
     <type name="PaddedGloves_Threat">
         <nominal>25</nominal>
         <lifetime>14400</lifetime>
@@ -1546,7 +1501,6 @@
 		<usage name="Farm"/>
         <usage name="School"/>
     </type>
-	
 	<type name="PetushokHat_Black">
         <nominal>10</nominal>
         <lifetime>14400</lifetime>
@@ -1565,7 +1519,6 @@
 		<usage name="Farm"/>
         <usage name="School"/>
     </type>
-	
     <type name="PetushokHat_Green">
         <nominal>10</nominal>
         <lifetime>14400</lifetime>
@@ -1584,7 +1537,6 @@
 		<usage name="Farm"/>
         <usage name="School"/>
     </type>
-	
     <type name="PetushokHat_Yellow">
         <nominal>20</nominal>
         <lifetime>14400</lifetime>
@@ -1597,7 +1549,6 @@
         <category name="clothes"/>
         <usage name="Town"/>
     </type>
-	
 	 <type name="OKZKCap_Beige">
         <nominal>8</nominal>
         <lifetime>14400</lifetime>
@@ -1610,7 +1561,6 @@
         <category name="clothes"/>
         <usage name="Military"/>
     </type>
-	
     <type name="OKZKCap_Green">
         <nominal>8</nominal>
         <lifetime>14400</lifetime>
@@ -1623,7 +1573,6 @@
         <category name="clothes"/>
         <usage name="Military"/>
     </type>
-	
 	<type name="FieldShovel">
         <nominal>20</nominal>
         <lifetime>14400</lifetime>
@@ -1636,10 +1585,8 @@
         <category name="tools"/>
         <usage name="Military"/>
     </type>
-	
 	<!-- #MOD GEBS FISH (NOT REQUIRED)-->
 	<!-- FRESHWATER CATCHES AND FILLETS --> 	
- 
     <type name="geb_Smallmouthbass">
 		<nominal>0</nominal>
 		<lifetime>14400</lifetime>
@@ -1750,7 +1697,6 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 		<category name="food"/>
 	</type>  
-   
       	<type name="geb_LakeTrout">
 		<nominal>0</nominal>
 		<lifetime>14400</lifetime>
@@ -1773,7 +1719,6 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 		<category name="food"/>
 	</type>
-   
       	<type name="geb_CutthroatTrout">
 		<nominal>0</nominal>
 		<lifetime>14400</lifetime>
@@ -2093,9 +2038,6 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 		<category name="food"/>
 	</type>	     
-     
-     
-	
 	<!-- SALTWATER CATCHES AND FILLETS -->
 	<type name="geb_Slimysculpin">
 		<nominal>0</nominal>
@@ -2163,7 +2105,6 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 		<category name="food"/>
 	</type>
-	
 	<type name="geb_Bonita">
 		<nominal>0</nominal>
 		<lifetime>14400</lifetime>
@@ -2384,7 +2325,6 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 		<category name="food"/>
 	</type>
-	
 	<type name="geb_Humpheadwrasse">
 		<nominal>0</nominal>
 		<lifetime>14400</lifetime>
@@ -2429,8 +2369,6 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 		<category name="food"/>
 	</type>
-		
-		
 	<type name="geb_Starfish">
 		<nominal>0</nominal>
 		<lifetime>14400</lifetime>
@@ -2563,7 +2501,6 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 		<category name="food"/>
 	</type>	
-	
 	<type name="geb_Angelshark">
 		<nominal>0</nominal>
 		<lifetime>14400</lifetime>
@@ -2608,8 +2545,6 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 		<category name="food"/>
 	</type>	     
-	
-	
 	<!--- FISHING LINE -->
 	<type name="geb_BigGameFishingLine">
         <nominal>0</nominal>
@@ -2656,8 +2591,6 @@
         <usage name="Hunting"/>
         <usage name="Village"/>
 	</type>
-	
-	
 	<!-- FISHING RODS -->
 	<type name="geb_RedFishingRod">
         <nominal>5</nominal>
@@ -2723,10 +2656,6 @@
         <usage name="Village"/>
 		<usage name="Industrial"/>
 	</type>
-	
-	
-	
-	
     <!-- HOOKS AND BOBBERS -->
 	<type name="geb_MetalHookBobber1">
         <nominal>3</nominal>
@@ -2806,10 +2735,6 @@
         <usage name="Village"/>
 		<usage name="Industrial"/>
 	</type>		
-	
-	
-	
-	
 	<!-- BAITED HOOKS AND BOBBERS -->
 	<type name="geb_MetalRubberWormBait">
 		<nominal>0</nominal>
@@ -2866,7 +2791,6 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 		<category name="tools"/>
 	</type>
-	
 	<type name="geb_BoneRubberWormBait">
 		<nominal>0</nominal>
 		<lifetime>14400</lifetime>
@@ -2911,8 +2835,6 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 		<category name="tools"/>
 	</type>				
-	
-	
     <!-- FISHING KNIVES -->
 	<type name="geb_BlueFishKnife">
         <nominal>5</nominal>
@@ -3004,10 +2926,6 @@
         <usage name="Village"/>
 		<usage name="Industrial"/>
 	</type>				
-	
-	
-	
-	
 	<!-- OLD TACKLE BOXES -->
 	<type name="geb_OldRedTackleBox">
         <nominal>0</nominal>
@@ -3073,9 +2991,6 @@
         <usage name="Village"/>
 		<usage name="Industrial"/>
 	</type>
-	
-	
-	
 	<!-- COLORED TACKLE BOXES -->
 	<type name="geb_YellowTackle">
         <nominal>0</nominal>
@@ -3248,8 +3163,6 @@
         <usage name="Hunting"/>
         <usage name="Village"/>
 	</type>	
-	
-	
 	<!-- BAIT AND TACKLE -->
 	<type name="geb_SmallTackle">
         <nominal>2</nominal>
@@ -3388,9 +3301,6 @@
         <usage name="Hunting"/>
         <usage name="Village"/>
 	</type>	
-     
-     
-     
    <!--LURES AND SPINNERBAITS-->     
 	<type name="geb_SpinnerBait1">
         <nominal>3</nominal>
@@ -3512,7 +3422,6 @@
         <usage name="Hunting"/>
         <usage name="Village"/>
 	</type>					
-	
     <!-- FUN TACKLE BOXES -->	
 	<type name="geb_FunPurpleTackle">
         <nominal>0</nominal>
@@ -3574,8 +3483,6 @@
         <usage name="Hunting"/>
         <usage name="Village"/>
 	</type>
-	
-	
 	<!-- FISHING CLOTHING -->
 	<type name="geb_BlueFishHat">
         <nominal>0</nominal>
@@ -3697,7 +3604,6 @@
         <usage name="Hunting"/>
         <usage name="Village"/>
 	</type>
-	
 <!-- #MOD WINDSTRIDES CLOTHING PACK (REQUIRED FOR NOW)-->
     <type name="Blue_Leggings">
         <nominal>3</nominal>
@@ -5908,7 +5814,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
-    
     <type name="RFWC_Seadoo_Camo">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -6465,7 +6370,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
     </type>
-	
 <!-- VANILLA TYPES -->
     <type name="ACOGOptic">
         <nominal>5</nominal>
@@ -6506,7 +6410,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier3"/>
-        
     </type>
     <type name="AK101_Black">
         <nominal>2</nominal>
@@ -6520,7 +6423,6 @@
         <category name="weapons"/>
 		<usage name="Military"/>
         <value name="Tier3"/>
-        
     </type>
     <type name="AK101_Green">
         <nominal>1</nominal>
@@ -6628,7 +6530,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
 		<value name="Tier2"/>
-        
     </type>
     <type name="AKS74U_Black">
         <nominal>2</nominal>
@@ -6641,7 +6542,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="weapons"/>
 		<value name="Tier1"/>
-        
     </type>
     <type name="AKS74U_Bttstck">
         <nominal>5</nominal>
@@ -6666,7 +6566,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="weapons"/>
 		<value name="Tier2"/>
-        
     </type>
     <type name="AK_Bayonet">
         <nominal>5</nominal>
@@ -7385,7 +7284,6 @@
 		<value name="Tier2"/>
         <value name="Tier3"/>
         <value name=""/>
-        
     </type>
     <type name="Ammo_12gaRubberSlug">
         <nominal>10</nominal>
@@ -8740,7 +8638,6 @@
         <category name="weapons"/>
         <usage name="Prison"/>
         <usage name="Hunting"/>
-		
 		<value name="Tier2"/>
         <value name="Tier3"/>
         <value name=""/>
@@ -10408,7 +10305,6 @@
         <value name="Tier3"/>
         <value name=""/>
     </type>
-	
 	<type name="Vikhr">
         <nominal>7</nominal>
         <lifetime>28800</lifetime>
@@ -10422,7 +10318,6 @@
         <usage name="Military"/>
         <value name="Tier3"/>
     </type>
-	
 	<type name="Mag_Vikhr_30Rnd">
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
@@ -10436,7 +10331,6 @@
         <usage name="Military"/>
         <value name="Tier3"/>
     </type>
-	
     <type name="CZ61">
         <nominal>7</nominal>
         <lifetime>7200</lifetime>
@@ -10501,7 +10395,6 @@
         <usage name="School"/>
         <value name="Tier1"/>
 		<value name="Tier2"/>
-		
     </type>
     <type name="CaninaBerry">
         <nominal>0</nominal>
@@ -12208,7 +12101,6 @@
 		<usage name="Hunting"/>
 		<value name="Tier2"/>
 		<value name="Tier3"/>
-		
     </type>
     <type name="Deagle_Gold">
         <nominal>1</nominal>
@@ -12590,7 +12482,6 @@
         <usage name="School"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
-       
     </type>
     <type name="DryBag_Green">
         <nominal>3</nominal>
@@ -12609,7 +12500,6 @@
         <usage name="School"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
-       
     </type>
     <type name="DryBag_Orange">
         <nominal>3</nominal>
@@ -12628,7 +12518,6 @@
         <usage name="School"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
-      
     </type>
     <type name="DryBag_Red">
         <nominal>3</nominal>
@@ -12647,7 +12536,6 @@
         <usage name="School"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
-      
     </type>
     <type name="DryBag_Yellow">
         <nominal>3</nominal>
@@ -12666,7 +12554,6 @@
         <usage name="School"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
-      
     </type>
     <type name="DuctTape">
         <nominal>20</nominal>
@@ -13183,7 +13070,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        
     </type>
     <type name="FirstAidKit">
         <nominal>20</nominal>
@@ -16031,7 +15917,6 @@
         <category name="weapons"/>
         <tag name="floor"/>
         <usage name="Hunting"/>
-		
     </type>
     <type name="HuntingVest">
         <nominal>20</nominal>
@@ -16137,7 +16022,6 @@
 		<usage name="Farm"/>
 		<value name="Tier1"/>
 		<value name="Tier2"/>
-        
     </type>
     <type name="Izh43Shotgun">
         <nominal>25</nominal>
@@ -17621,7 +17505,6 @@
         <value name="Tier2"/>
 		<value name="Tier3"/>
 		<value name=""/>
-        
     </type>
     <type name="M18SmokeGrenade_Green">
         <nominal>10</nominal>
@@ -17946,7 +17829,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="ContaminatedArea"/>
-        
     </type>
     <type name="M9A1_Bayonet">
         <nominal>10</nominal>
@@ -17993,7 +17875,6 @@
         <usage name="Military"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
-       
     </type>
     <type name="MP5_Compensator">
         <nominal>20</nominal>
@@ -18297,7 +18178,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Police"/>
-      
     </type>
     <type name="Mag_CZ75_15Rnd">
         <nominal>15</nominal>
@@ -19360,7 +19240,6 @@
 		<usage name="Farm"/>
 		<value name="Tier2"/>
         <value name="Tier3"/>
-        
     </type>
     <type name="Mosin9130_Black">
         <nominal>3</nominal>
@@ -19378,7 +19257,6 @@
 		<usage name="Industrial"/>
 		<usage name="Farm"/>
 		<value name="Tier1"/>
-        
     </type>
     <type name="Mosin9130_Camo">
         <nominal>0</nominal>
@@ -19450,7 +19328,6 @@
         <usage name="Village"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-        
     </type>
     <type name="MotoHelmet_Blue">
         <nominal>10</nominal>
@@ -19502,7 +19379,6 @@
         <usage name="Village"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-        
     </type>
     <type name="MotoHelmet_Lime">
         <nominal>10</nominal>
@@ -19582,7 +19458,6 @@
         <usage name="Village"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-        
     </type>
     <type name="MountainBag_Green">
         <nominal>10</nominal>
@@ -19598,7 +19473,6 @@
         <usage name="Village"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-       
     </type>
     <type name="MountainBag_Orange">
         <nominal>10</nominal>
@@ -19614,7 +19488,6 @@
         <usage name="Village"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-       
     </type>
     <type name="MountainBag_Red">
         <nominal>10</nominal>
@@ -19630,7 +19503,6 @@
         <usage name="Village"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-        
     </type>
     <type name="MouthRag">
         <nominal>0</nominal>
@@ -19657,7 +19529,6 @@
 		<usage name="Prison"/>
 		<value name="Tier1"/>
 		<value name="Tier2"/>
-		
     </type>
     <type name="NBCBootsGray">
         <nominal>2</nominal>
@@ -19809,7 +19680,6 @@
 		<value name="Tier1"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-        
     </type>
     <type name="NVGoggles">
         <nominal>5</nominal>
@@ -19939,7 +19809,6 @@
         <usage name="Police"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-        
     </type>
     <type name="OMNOGloves_Gray">
         <nominal>10</nominal>
@@ -19955,7 +19824,6 @@
         <usage name="Police"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-        
     </type>
     <type name="OfficerHat">
         <nominal>5</nominal>
@@ -20154,7 +20022,6 @@
         <usage name="Industrial"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-        
     </type>
     <type name="OrientalMachete">
         <nominal>3</nominal>
@@ -20210,7 +20077,6 @@
         <usage name="Village"/>
 		<value name="Tier1"/>
         <value name="Tier2"/>
-      
     </type>
     <type name="PP19">
         <nominal>15</nominal>
@@ -20647,8 +20513,6 @@
         <category name="tools"/>
         <usage name="Industrial"/>
         <usage name="Farm"/>
-        
-       
     </type>
     <type name="PigPelt">
         <nominal>0</nominal>
@@ -20696,7 +20560,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
-        
     </type>
     <type name="Pipe">
         <nominal>35</nominal>
@@ -20736,7 +20599,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Hunting"/>
-        
     </type>
     <type name="PistolSuppressor">
         <nominal>35</nominal>
@@ -21247,7 +21109,6 @@
         <usage name="Police"/>
 		<usage name="Prison"/>
 		<usage name="Military"/>
-        
     </type>
     <type name="PressVest_LightBlue">
         <nominal>10</nominal>
@@ -21969,9 +21830,7 @@
         <usage name="Military"/>
         <value name="Tier2"/>
 		<value name="Tier3"/>
-		
     </type>
-	
     <type name="SKS_Bayonet">
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
@@ -22296,7 +22155,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
-       
 		<usage name="Prison"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -23148,7 +23006,6 @@
         <usage name="Village"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
-		
     </type>
     <type name="Sickle">
         <nominal>35</nominal>
@@ -26503,7 +26360,6 @@
         <usage name="Office"/>
         <usage name="School"/>
 		<value name="Tier1"/>
-        
     </type>
     <type name="ZagorkyChocolate">
         <nominal>30</nominal>
@@ -26521,7 +26377,6 @@
 		<usage name="Farm"/>
         <usage name="Village"/>
 		<value name="Tier1"/>
-        
     </type>
     <type name="ZagorkyPeanuts">
         <nominal>20</nominal>
@@ -28260,5 +28115,4 @@
         <category name="food"/>
         <usage name="Farm"/>
     </type>
-	
 </types>
