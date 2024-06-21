@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-
 <spawnabletypes>
-
 	<type name="M14">
 		<damage min="0.0" max="0.0" />
 	</type>
@@ -3835,7 +3833,6 @@
 			<item name="Truck_01_Door_2_1_Orange" chance="0.10" />
 		</attachments>
 	</type>
-
 	<type name="V3S_Chassis">
 		<attachments chance="1.00">
 			<item name="V3SWheel" chance="0.10" />
@@ -3980,8 +3977,6 @@
 			<item name="V3SDoors_CoDriver_Grey" chance="0.50" />
 		</attachments>
 	</type>
-
-
 <!-- BOATS -->
 	<type name="ExpansionUtilityBoat">
 		<attachments chance="1.00">

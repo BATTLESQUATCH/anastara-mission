@@ -16,10 +16,8 @@
             <min_dist_static>0.5</min_dist_static>
             <max_dist_static>2.0</max_dist_static>
         </spawn_params>
-
         <!--
             Generator parameters
-
             Spawn points are generated around positions given inside <generator_posbubbles> element.
             Around every position is created a rectangle with given dimensions.
             This rectangle is then sampled for spawn point candidates in form of a grid.
@@ -27,12 +25,9 @@
         <generator_params>
             <!--
                 Density is sample frequency of created rectangle.
-
                 example:                         example:
                   density 4                        density 8
-
                 grid will look like this:        grid will look like this:
-
                   +-----+-----+-----+-----+        +--+--+--+--+--+--+--+--+
                   |     |     |     |     |        |  |  |  |  |  |  |  |  |
                   |     |     |     |     |        +--+--+--+--+--+--+--+--+
@@ -50,7 +45,6 @@
                   |     |     |     |     |        +--+--+--+--+--+--+--+--+
                   |     |     |     |     |        |  |  |  |  |  |  |  |  |
                   +-----+-----+-----+-----+        +--+--+--+--+--+--+--+--+
-
                 Every '+' represents a spawn point candidate.
                 Blank areas are space between each spawn point.
                 Width of each area is exaclty width / density.
@@ -69,11 +63,8 @@
             <min_steepness>-45</min_steepness>
             <max_steepness>45</max_steepness>
         </generator_params>
-
         <!-- centers for grids of spawn points -->
         <generator_posbubbles>
-
-
 		
 		
 		<pos x="3774.361572" z="1904.994995"/>
@@ -96,10 +87,7 @@
 		<pos x="2593.548584" z="2473.546631"/>
 		<pos x="2631.060303" z="2408.110596"/>
 		<pos x="2747.998779" z="2681.003418"/>
-
-
 		
-
 			<!-- Freshie Minefield 
 			
 			
@@ -108,8 +96,6 @@
 			<pos x="3269.85" z="3148.32"/>
 			<pos x="3269.61" z="3147.54"/> -->
 			
-
-
 		
 			<!--  MegaFreshVille /> 
 			<pos x="9326" z="3631" />
@@ -117,7 +103,6 @@
 			<pos x="9229" z="3871" />
 			<pos x="9453" z="3737" /> -->
 			
-
 			<!-- Freshie Milly 
 			<pos x="7439.37" z="3381.84" />
 			<pos x="7368.04" z="3481.01" />
@@ -140,12 +125,10 @@
 			
 		
 			
-
 			
 			
         </generator_posbubbles>
     </fresh>
-
     <!--
         Spawn points settings for server hoppers
     -->
@@ -182,7 +165,6 @@
 			
         </generator_posbubbles>
     </hop>
-
     <!--
         Spawn points settings for travellers
     -->

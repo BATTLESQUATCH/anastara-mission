@@ -292,7 +292,6 @@
 			<item name="ThinFramesGlasses" chance="0.20" />
 			<item name="DesignerGlasses" chance="0.20" />
 		</attachments>
-
 	<!--CITY ATTACHMENTS-->
 		<attachments chance="0.20" name="hatsCity">
 				<item name="FlatCap_BrownCheck" chance="0.10" />
@@ -368,14 +367,12 @@
 				<item name="FirefightersHelmet_Red" chance="0.66" />
 				<item name="FirefightersHelmet_Yellow" chance="1.00" />
 		</attachments>
-
 		<!--MEDIC ATTACHMENTS-->
 		<attachments chance="0.80" name="hatsMedic">
 				<item name="MedicalScrubsHat_Blue" chance="0.35" />
 				<item name="MedicalScrubsHat_Green" chance="0.35" />
 				<item name="MedicalScrubsHat_White" chance="0.35" />
 		</attachments>
-
 		<!--ARMY ATTACHMENTS-->
 		<attachments chance="0.60" name="hatsArmy">
 			<item name="TankerHelmet" chance="0.10" />
@@ -418,7 +415,6 @@
 		<attachments chance="1.00" name="OfficerHatArmy">
 			<item name="OfficerHat" chance="1.00" />
 		</attachments>
-
 		<!--POLICE ATTACHMENTS-->
 		<attachments chance="0.20" name="hatsPolice">
 				<item name="PoliceCap" chance="1.00" />
@@ -431,7 +427,6 @@
 		<attachments chance="0.20" name="hatsPrisoner">
 				<item name="PrisonerCap" chance="1.00" />
 		</attachments>
-
 		<!--UNIVERSAL ATTACHMENTS-->
 		<attachments chance="0.20" name="hatsMotorbike">
 				<item name="MotoHelmet_Black" chance="0.10" />

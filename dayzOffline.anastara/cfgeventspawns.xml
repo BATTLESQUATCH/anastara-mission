@@ -13,9 +13,7 @@
 	<event name="VehicleHatchback02">
 		<pos x="8642.116211" z="3667.032959" a="317" />
 		<pos x="8669.659180" z="5628.243164" a="317" />
-
 	</event>
-
     <event name="StaticHeliCrash">
 		<pos x="3677.78" z="4295.48" a="357.697601" />	
 		<pos x="4394.813965" z="7689.958984" a="357.697601" />
@@ -39,7 +37,6 @@
 			<pos x="3270.798096" z="3151.492676" />
 			<pos x="3295.162109" z="3159.424805" />
 	</event>
-
 	<event name="VehicleRFWC_Watercraft">
 		<pos x="1028.984863" y="0.317056" z="3964.607910" />
 		<pos x="1050.168091" y="0.146649" z="3968.298340" />
@@ -110,7 +107,6 @@
 		<pos x="3998.135254" y="9.417140" z="5829.721680" a="0"/>
 		<pos x="4000.129150" y="9.358780" z="5800.223145" a="0"/>
     </event>
-
     <event name="StaticContaminatedArea">
 		<zone smin="0" smax="0" dmin="1" dmax="1" r="75" />
 		<pos x="7301.432617" z="6725.910156" />
@@ -125,7 +121,6 @@
 		<pos x="5766.846680" z="5521.732910" />
 		<pos x="4002.603760" y="50" z="8366.353516" />
 	</event>
-
 	<event name="VehicleOffroad02">
 		<pos x="626.307739" z="5122.310547" a="180" />
 		<pos x="3070.062012" z="5355.694824" a="180" />
@@ -135,7 +130,6 @@
 		<pos x="4353.678223" z="4334.717773" a="317" />
 		<pos x="4155.687012" z="7050.605469" a="180" />
 	</event>
-
     <event name="VehicleTransitBus" />
     <event name="InfectedVillage" />
     <event name="InfectedSolitude" />

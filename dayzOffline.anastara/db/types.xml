@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
-
 <!-- IMPORTANT: Reduce lifetime of landminetrap to address any server performance issues with minefields.  Minefields are optional but fun.  :D -->
 	<type name="CJ_Armed_LandMineTrap">
         <nominal>0</nominal>
@@ -14,7 +13,6 @@
         <category name="explosives"/>
        
 	</type>
-
 	<type name="PunchedCard">
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
@@ -27,8 +25,6 @@
         <category name="tools"/>
         <usage name="ContaminatedArea"/>
 	</type>
-
-
 <!-- ANASTARA SERVER PACK (REQUIRED) -->
 	<type name="squat_protoexo">
         <nominal>0</nominal>
@@ -152,7 +148,6 @@
 		<value name="Tier1"/>
         <value name="Tier2"/>
 	</type>
-
 	<type name="Winter_Parka_Black">
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
@@ -169,7 +164,6 @@
 		<value name="Tier1"/>
         <value name="Tier2"/>
 	</type>
-
 	<type name="Winter_Parka_Brown">
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
@@ -186,7 +180,6 @@
 		<value name="Tier1"/>
         <value name="Tier2"/>
 	</type>
-
 	<type name="Winter_Parka_Maroon">
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
@@ -203,8 +196,6 @@
 		<value name="Tier1"/>
         <value name="Tier2"/>
 	</type>
-
-
 	<type name="Kneepads_Jeans_Dark">
         <nominal>25</nominal>
         <lifetime>2700</lifetime>
@@ -221,7 +212,6 @@
 		<value name="Tier1"/>
         <value name="Tier2"/>
 	</type>
-
 	<type name="Kneepads_Jeans_Green">
         <nominal>25</nominal>
         <lifetime>2700</lifetime>
@@ -238,8 +228,6 @@
 		<value name="Tier1"/>
         <value name="Tier2"/>
 	</type>
-
-
 	<type name="Kneepads_Jeans_Lightblue">
         <nominal>25</nominal>
         <lifetime>2700</lifetime>
@@ -256,7 +244,6 @@
 		<value name="Tier1"/>
         <value name="Tier2"/>
 	</type>
-
 	<type name="Kneepads_Jeans_Brown">
         <nominal>25</nominal>
         <lifetime>2700</lifetime>
@@ -273,7 +260,6 @@
 		<value name="Tier1"/>
         <value name="Tier2"/>
 	</type>
-
 	<type name="Layered_Shirt_Olive">
         <nominal>20</nominal>
         <lifetime>2700</lifetime>
@@ -290,7 +276,6 @@
 		<value name="Tier1"/>
         <value name="Tier2"/>
 	</type>
-
 	<type name="Layered_Shirt_Black">
         <nominal>20</nominal>
         <lifetime>2700</lifetime>
@@ -307,7 +292,6 @@
 		<value name="Tier1"/>
         <value name="Tier2"/>
 	</type>
-
 	<type name="Layered_Shirt_Yellow">
         <nominal>20</nominal>
         <lifetime>2700</lifetime>
@@ -324,7 +308,6 @@
 		<value name="Tier1"/>
         <value name="Tier2"/>
 	</type>
-
 	<type name="Layered_Shirt_Brown">
         <nominal>20</nominal>
         <lifetime>2700</lifetime>
@@ -341,7 +324,6 @@
 		<value name="Tier1"/>
         <value name="Tier2"/>
 	</type>
-
 	<type name="land_exocrate1">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -378,7 +360,6 @@
 			<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 			<tag name="exoloot3" />
 	</type>
-
 	<type name="PolicePants_Black">
         <nominal>20</nominal>
         <lifetime>7200</lifetime>
@@ -393,7 +374,6 @@
 		<value name="Tier1"/>
         <value name="Tier2"/>
 	</type>
-
 	<type name="PoliceJacket_Black">
         <nominal>20</nominal>
         <lifetime>7200</lifetime>
@@ -407,10 +387,8 @@
         <usage name="Police"/>
 		<value name="Tier1"/>
         <value name="Tier2"/>
-
         
 	</type>
-
 	<type name="PressVest_Black">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
@@ -428,7 +406,6 @@
         <value name="Tier2"/>
         
 	</type>
-
 	<type name="PressVest_Black_NoLabel">
         <nominal>15</nominal>
         <lifetime>7200</lifetime>
@@ -446,7 +423,6 @@
         <value name="Tier2"/>
         
 	</type>
-
 	<type name="JumpsuitPants_Black">
         <nominal>20</nominal>
         <lifetime>14400</lifetime>
@@ -464,7 +440,6 @@
         <value name="Tier2"/>
         
 	</type>
-
 	<type name="HuntingBag_Black">
         <nominal>20</nominal>
         <lifetime>28800</lifetime>
@@ -481,7 +456,6 @@
         <value name="Tier3"/>
         <value name=""/>
 	</type>
-
 	<type name="HuntingBag_Olive">
         <nominal>20</nominal>
         <lifetime>28800</lifetime>
@@ -498,7 +472,6 @@
         <value name="Tier3"/>
         <value name=""/>
 	</type>
-
 	<type name="BasicDrybag_Black">
         <nominal>20</nominal>
         <lifetime>28800</lifetime>
@@ -518,7 +491,6 @@
         <usage name="School"/>
         
 	</type>
-
 	<type name="BasicDrybag_Brown">
         <nominal>10</nominal>
         <lifetime>28800</lifetime>
@@ -538,7 +510,6 @@
         <usage name="School"/>
         
 	</type>
-
 	<type name="BasicDrybag_Green">
         <nominal>15</nominal>
         <lifetime>28800</lifetime>
@@ -557,7 +528,6 @@
 		<usage name="Farm"/>
         <usage name="School"/>
 	</type>
-
 	<type name="BasicDrybag_Tan">
         <nominal>15</nominal>
         <lifetime>28800</lifetime>
@@ -577,7 +547,6 @@
         <usage name="School"/>
 		
 	</type>
-
 	<type name="DenimJacket_Basic">
         <nominal>20</nominal>
         <lifetime>14400</lifetime>
@@ -596,7 +565,6 @@
 		<usage name="Farm"/>
         <usage name="School"/>
 	</type>
-
 	<type name="DenimJacket_Black">
         <nominal>20</nominal>
         <lifetime>14400</lifetime>
@@ -615,7 +583,6 @@
 		<usage name="Farm"/>
         <usage name="School"/>
 	</type>
-
 	<type name="DenimJacket_Faded">
         <nominal>20</nominal>
         <lifetime>14400</lifetime>
@@ -634,7 +601,6 @@
 		<usage name="Farm"/>
         <usage name="School"/>
 	</type>
-
 	<type name="DenimJacket_Grey">
         <nominal>20</nominal>
         <lifetime>14400</lifetime>
@@ -653,7 +619,6 @@
 		<usage name="Farm"/>
         <usage name="School"/>
 	</type>
-
 	<type name="DenimJacket_Tan">
         <nominal>20</nominal>
         <lifetime>14400</lifetime>
@@ -672,7 +637,6 @@
 		<usage name="Farm"/>
         <usage name="School"/>
 	</type>
-
 	<type name="DenimJacket_Green">
         <nominal>20</nominal>
         <lifetime>14400</lifetime>
@@ -691,7 +655,6 @@
 		<usage name="Farm"/>
         <usage name="School"/>
 	</type>
-
 	<type name="DenimJacket_Earth">
         <nominal>20</nominal>
         <lifetime>14400</lifetime>
@@ -710,7 +673,6 @@
 		<usage name="Farm"/>
         <usage name="School"/>
 	</type>
-
 	<type name="MountainBag_Basic">
         <nominal>10</nominal>
         <lifetime>28800</lifetime>
@@ -729,7 +691,6 @@
 		<usage name="Farm"/>
         <usage name="School"/>
 	</type>
-
 	<type name="MountainBag_Brown">
         <nominal>10</nominal>
         <lifetime>28800</lifetime>
@@ -748,7 +709,6 @@
 		<usage name="Farm"/>
         <usage name="School"/>
 	</type>
-
 	<type name="MountainBag_Green">
         <nominal>10</nominal>
         <lifetime>28800</lifetime>
@@ -767,7 +727,6 @@
 		<usage name="Farm"/>
         <usage name="School"/>
 	</type>
-
 	<type name="MountainBag_Black">
         <nominal>10</nominal>
         <lifetime>28800</lifetime>
@@ -786,7 +745,6 @@
 		<usage name="Farm"/>
         <usage name="School"/>
 	</type>
-
 	<type name="RidersJacket_Brown">
         <nominal>10</nominal>
         <lifetime>28800</lifetime>
@@ -805,7 +763,6 @@
 		<usage name="Farm"/>
         <usage name="School"/>
 	</type>
-
 	<type name="RidersJacket_White">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
@@ -824,7 +781,6 @@
 		<usage name="Farm"/>
         <usage name="School"/>
 	</type>
-
 	<type name="RidersJacket_Tan">
         <nominal>20</nominal>
         <lifetime>28800</lifetime>
@@ -843,7 +799,6 @@
 		<usage name="Farm"/>
         <usage name="School"/>
 	</type>
-
 	<type name="CargoPants_Brown">
         <nominal>25</nominal>
         <lifetime>14400</lifetime>
@@ -862,8 +817,6 @@
 		<usage name="Farm"/>
         <usage name="School"/>
 	</type>
-
-
 	<type name="UndergroundStash">
         <nominal>0</nominal>
         <lifetime>1209600</lifetime>
@@ -875,8 +828,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
 	</type>
-
-
 	<type name="StaticObj_Misc_SupplyBox1_DE">
         <nominal>0</nominal>
         <lifetime>3</lifetime>
@@ -887,7 +838,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-
 	<type name="StaticObj_Misc_SupplyBox2_DE">
         <nominal>0</nominal>
         <lifetime>3</lifetime>
@@ -898,7 +848,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-
 	<type name="StaticObj_Misc_SupplyBox3_DE">
         <nominal>0</nominal>
         <lifetime>3</lifetime>
@@ -909,7 +858,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-
 	<type name="branch2x4">
         <nominal>20</nominal>
         <lifetime>14400</lifetime>
@@ -927,7 +875,6 @@
         <value name="Tier1"/>
         <value name="Tier2"/>
 	</type>
-
 	<type name="hookmelee">
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
@@ -948,7 +895,6 @@
         <value name="Tier1"/>
         <value name="Tier2"/>
 	</type>
-
 	<type name="cleavermelee">
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
@@ -968,9 +914,7 @@
         <usage name="School"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
-
 	</type>
-
 	<type name="oldaxemelee">
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
@@ -992,7 +936,6 @@
         <value name="Tier2"/>
         
 	</type>
-
 	<type name="cricketmelee">
         <nominal>10</nominal>
         <lifetime>14400</lifetime>
@@ -1007,7 +950,6 @@
 		<usage name="Farm"/>
         
 	</type>
-
 	<type name="45carbine">
         <nominal>15</nominal>
         <lifetime>7200</lifetime>
@@ -1025,9 +967,7 @@
 		<value name="Tier1"/>
         <value name="Tier2"/>
 		<value name="Tier3"/>
-
 	</type>
-
 	<type name="45carbine_mag">
         <nominal>20</nominal>
         <lifetime>14400</lifetime>
@@ -1044,10 +984,7 @@
         <usage name="Hunting"/>
 		<value name="Tier1"/>
         <value name="Tier2"/>
-
-
 	</type>
-
 <!-- VANILLA UPDATES SINCE PROJECT START -->
 	 <type name="Mag_SV98_10Rnd">
         <nominal>6</nominal>
@@ -1076,7 +1013,6 @@
         <usage name="Military"/>
         <value name="Tier3"/>
     </type>
-
 	<type name="Crossbow_Autumn">
         <nominal>7</nominal>
         <lifetime>14400</lifetime>
@@ -1357,7 +1293,6 @@
         <category name="containers"/>
         <usage name="Village"/>
     </type>
-
 	<type name="Slingbag_Black">
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
@@ -1512,7 +1447,6 @@
         <category name="clothes"/>
         <usage name="Town"/>
     </type>
-
 	 <type name="M14">
 			<nominal>2</nominal>
 			<lifetime>28800</lifetime>
@@ -2161,7 +2095,6 @@
 	</type>	     
      
      
-
 	
 	<!-- SALTWATER CATCHES AND FILLETS -->
 	<type name="geb_Slimysculpin">
@@ -2677,7 +2610,6 @@
 	</type>	     
 	
 	
-
 	<!--- FISHING LINE -->
 	<type name="geb_BigGameFishingLine">
         <nominal>0</nominal>
@@ -2879,7 +2811,6 @@
 	
 	
 	<!-- BAITED HOOKS AND BOBBERS -->
-
 	<type name="geb_MetalRubberWormBait">
 		<nominal>0</nominal>
 		<lifetime>14400</lifetime>
@@ -2982,8 +2913,6 @@
 	</type>				
 	
 	
-
-
     <!-- FISHING KNIVES -->
 	<type name="geb_BlueFishKnife">
         <nominal>5</nominal>
@@ -3079,7 +3008,6 @@
 	
 	
 	
-
 	<!-- OLD TACKLE BOXES -->
 	<type name="geb_OldRedTackleBox">
         <nominal>0</nominal>
@@ -3460,7 +3388,6 @@
         <usage name="Hunting"/>
         <usage name="Village"/>
 	</type>	
-
      
      
      
@@ -3586,10 +3513,6 @@
         <usage name="Village"/>
 	</type>					
 	
-
-
-
-
     <!-- FUN TACKLE BOXES -->	
 	<type name="geb_FunPurpleTackle">
         <nominal>0</nominal>
@@ -4962,8 +4885,6 @@
         <category name="clothes"/>
         <usage name="Military"/>
     </type>	
-
-
 <!-- #MOD RED FALCON FLIGHT SYSTEM (NOT REQUIRED) -->
     <type name="RFFSHeli_Bo105m">
         <nominal>0</nominal>
@@ -5185,7 +5106,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
-
     <type name="RFFSHeli_Mi2">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -5206,7 +5126,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>		
-
     <type name="RFFSHeli_Mi2_Military">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -5227,7 +5146,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>		
-
     <type name="RFFSHeli_Mi2_Hornet">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -5248,7 +5166,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>		
-
     <type name="RFFSHeli_Apache">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -5890,7 +5807,6 @@
         <usage name="Industrial" />
         <tag name="floor" />
     </type>
-
 <!-- #MOD RED FALCON WATERCRAFT (NOT REQUIRED) -->
 	<type name="RFWC_Whaler">
         <nominal>0</nominal>
@@ -6066,9 +5982,7 @@
         <usage name="Industrial" />
         <tag name="floor" />
     </type>
-
 <!-- #MOD HUNTERZ CROCODILE (NOT REQUIRED) -->
-
 	<type name="Animal_Crocodile">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
@@ -6553,7 +6467,6 @@
     </type>
 	
 <!-- VANILLA TYPES -->
-
     <type name="ACOGOptic">
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
@@ -8832,7 +8745,6 @@
         <value name="Tier3"/>
         <value name=""/>
     </type>
-
     <type name="BDUJacket">
         <nominal>20</nominal>
         <lifetime>14400</lifetime>
@@ -10536,7 +10448,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
 		<usage name="Police"/>
-
     </type>
     <type name="CZ75">
         <nominal>15</nominal>
@@ -10549,7 +10460,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Police"/>
-
     </type>
     <type name="CableReel">
         <nominal>0</nominal>
@@ -14373,7 +14283,6 @@
 		<usage name="Village"/>
 		<usage name="Prison"/>
 		<usage name="Farm"/>
-
     </type>
     <type name="GlowPlug">
         <nominal>25</nominal>
@@ -14386,7 +14295,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <usage name="Industrial"/>
-
     </type>
     <type name="GoatPelt">
         <nominal>0</nominal>
@@ -15549,7 +15457,6 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
-
     </type>
     <type name="Headtorch_Grey">
         <nominal>20</nominal>
@@ -15566,7 +15473,6 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
-
     </type>
     <type name="Heatpack">
         <nominal>10</nominal>
@@ -15880,7 +15786,6 @@
         <usage name="Village"/>
 		<value name="Tier1"/>
         <value name="Tier2"/>
-
     </type>
     <type name="Hoodie_Green">
         <nominal>10</nominal>
@@ -15962,7 +15867,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-
     </type>
     <type name="HunterPants_Brown">
         <nominal>10</nominal>
@@ -15975,7 +15879,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-
     </type>
     <type name="HunterPants_Spring">
         <nominal>10</nominal>
@@ -15988,7 +15891,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-
     </type>
     <type name="HunterPants_Summer">
         <nominal>10</nominal>
@@ -16001,7 +15903,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-
     </type>
     <type name="HunterPants_Winter">
         <nominal>0</nominal>
@@ -16053,7 +15954,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-
     </type>
     <type name="HuntingJacket_Brown">
         <nominal>10</nominal>
@@ -16066,7 +15966,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-
     </type>
     <type name="HuntingJacket_Spring">
         <nominal>10</nominal>
@@ -16079,7 +15978,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-
     </type>
     <type name="HuntingJacket_Summer">
         <nominal>10</nominal>
@@ -16092,7 +15990,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-
     </type>
     <type name="HuntingJacket_Winter">
         <nominal>0</nominal>
@@ -16204,7 +16101,6 @@
         <category name="tools"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-
     </type>
     <type name="Izh18">
         <nominal>25</nominal>
@@ -16223,7 +16119,6 @@
 		<usage name="Farm"/>
 		<value name="Tier1"/>
 		<value name="Tier2"/>
-
     </type>
     <type name="Izh18Shotgun">
         <nominal>25</nominal>
@@ -16243,7 +16138,6 @@
 		<value name="Tier1"/>
 		<value name="Tier2"/>
         
-
     </type>
     <type name="Izh43Shotgun">
         <nominal>25</nominal>
@@ -16276,7 +16170,6 @@
 		<usage name="Farm"/>
 		<value name="Tier1"/>
 		<value name="Tier2"/>
-
     </type>
     <type name="Jeans_Blue">
         <nominal>0</nominal>
@@ -16294,7 +16187,6 @@
 		<usage name="Farm"/>
 		<value name="Tier1"/>
 		<value name="Tier2"/>
-
     </type>
     <type name="Jeans_BlueDark">
         <nominal>20</nominal>
@@ -16312,7 +16204,6 @@
 		<usage name="Farm"/>
 		<value name="Tier1"/>
 		<value name="Tier2"/>
-
     </type>
     <type name="Jeans_Brown">
         <nominal>20</nominal>
@@ -16330,7 +16221,6 @@
 		<usage name="Farm"/>
 		<value name="Tier1"/>
 		<value name="Tier2"/>
-
     </type>
     <type name="Jeans_Green">
         <nominal>20</nominal>
@@ -16348,7 +16238,6 @@
 		<usage name="Farm"/>
 		<value name="Tier1"/>
 		<value name="Tier2"/>
-
     </type>
     <type name="Jeans_Grey">
         <nominal>20</nominal>
@@ -16366,7 +16255,6 @@
 		<usage name="Farm"/>
 		<value name="Tier1"/>
 		<value name="Tier2"/>
-
     </type>
     <type name="JoggingShoes_Black">
         <nominal>3</nominal>
@@ -17677,7 +17565,6 @@
         <value name="Tier1"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-
     </type>
     <type name="LugWrench">
         <nominal>30</nominal>
@@ -18410,7 +18297,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Police"/>
-
       
     </type>
     <type name="Mag_CZ75_15Rnd">
@@ -19772,7 +19658,6 @@
 		<value name="Tier1"/>
 		<value name="Tier2"/>
 		
-
     </type>
     <type name="NBCBootsGray">
         <nominal>2</nominal>
@@ -21983,7 +21868,6 @@
 		<usage name="Hunting"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
-
     </type>
     <type name="Rice">
         <nominal>10</nominal>
@@ -22401,7 +22285,6 @@
 		<usage name="Prison"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
-
     </type>
     <type name="Scout_Chernarus">
         <nominal>2</nominal>
@@ -23418,7 +23301,6 @@
         <usage name="Village"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
-
     </type>
     <type name="SlacksPants_Black">
         <nominal>5</nominal>
@@ -23435,7 +23317,6 @@
         <usage name="Village"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
-
     </type>
     <type name="SlacksPants_Blue">
         <nominal>5</nominal>
@@ -23452,7 +23333,6 @@
         <usage name="Village"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
-
     </type>
     <type name="SlacksPants_Brown">
         <nominal>5</nominal>
@@ -23469,7 +23349,6 @@
         <usage name="Village"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
-
     </type>
     <type name="SlacksPants_DarkGrey">
         <nominal>5</nominal>
@@ -23486,7 +23365,6 @@
         <usage name="Village"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
-
     </type>
     <type name="SlacksPants_Khaki">
         <nominal>5</nominal>
@@ -23503,7 +23381,6 @@
         <usage name="Village"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
-
     </type>
     <type name="SlacksPants_LightGrey">
         <nominal>5</nominal>
@@ -23520,7 +23397,6 @@
         <usage name="Village"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
-
     </type>
     <type name="SlacksPants_White">
         <nominal>3</nominal>
@@ -23537,7 +23413,6 @@
         <usage name="Village"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
-
     </type>
     <type name="SledgeHammer">
         <nominal>25</nominal>
@@ -23556,7 +23431,6 @@
         <usage name="Village"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
-
     </type>
     <type name="SlicedPumpkin">
         <nominal>0</nominal>
@@ -24904,7 +24778,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <usage name="Medic"/>
-
     </type>
     <type name="ThickFramesGlasses">
         <nominal>15</nominal>
@@ -24959,7 +24832,6 @@
         <usage name="Village"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
-
     </type>
     <type name="TomatoSeeds">
         <nominal>0</nominal>
@@ -26388,7 +26260,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-
         <usage name="Industrial"/>
         <usage name="Town"/>
 		<usage name="Farm"/>
@@ -26407,7 +26278,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-
         <usage name="Industrial"/>
         <usage name="Town"/>
 		<usage name="Farm"/>
@@ -26663,7 +26533,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-
         <usage name="Hunting"/>
         <usage name="Office"/>
         <usage name="School"/>
@@ -26671,7 +26540,6 @@
 		<usage name="Farm"/>
         <usage name="Village"/>
         <value name="Tier1"/>
-
     </type>
     <type name="ZmbF_BlueCollarFat_Blue">
         <nominal>0</nominal>
@@ -28368,7 +28236,6 @@
         <usage name="Village"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
-
     </type>
     <type name="ZucchiniSeeds">
         <nominal>0</nominal>
@@ -28395,4 +28262,3 @@
     </type>
 	
 </types>
-

@@ -30,8 +30,6 @@
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
 				"Pos": [ 9112.465820, 0, 5569.096680 ],
-
-
 				"Radius": 120,
 				"PosHeight": 22,
 				"NegHeight": 10,
