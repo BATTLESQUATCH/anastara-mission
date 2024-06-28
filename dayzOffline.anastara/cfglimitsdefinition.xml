@@ -13,7 +13,6 @@
 		<category name="exoloot2"/>
 		<category name="exoloot3"/>
 	</categories>
-
 	<tags>
 		<tag name="floor"/>
 		<tag name="shelves"/>
@@ -22,7 +21,6 @@
 		<tag name="exoloot2"/>
 		<tag name="exoloot3"/>
 	</tags>
-
 	<usageflags>
 		<usage name="Military"/>
 		<usage name="Police"/>
