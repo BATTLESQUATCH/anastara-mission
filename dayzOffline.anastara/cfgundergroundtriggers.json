@@ -29,7 +29,7 @@
 			"Position": [ 3949.345703, 42, 8312.045898],
 			"Orientation": [ 0, 0, 0 ],
 			"Size": [ 700, 14, 700 ],
-			"EyeAccommodation": 0.3,
+			"EyeAccommodation": 0.0,
 			"Breadcrumbs": [],
 			"InterpolationSpeed": 1.0
 		},
