@@ -64,6 +64,7 @@ The following community members were critical to the Anastara project:
  - livingxdead
  - filthysausage
  - dirtyburglar
+ - ________ aka n3rdly
 
 If I missed anyone, please don't be shy and let me know.  
 
