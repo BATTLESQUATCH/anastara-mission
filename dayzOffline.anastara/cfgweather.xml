@@ -7,7 +7,7 @@
         <!-- Initial conditions of the overcast (target value, time to change, how long will it stay) -->
         <current actual="0.4" time="120" duration="240" />
         <!-- What is the range of the overcast value (0..1) -->
-        <limits min="0.4" max="1.0" />
+        <limits min="0.4" max="0.7" />
         <!-- How long does it take to the overcast to change from one value to other (time in seconds) -->
         <timelimits min="900" max="1800" />
         <!-- How much should the overcast change (0..1) -->
