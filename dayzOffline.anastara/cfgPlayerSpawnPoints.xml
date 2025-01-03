@@ -16,13 +16,46 @@
             <min_dist_static>0.5</min_dist_static>
             <max_dist_static>2.0</max_dist_static>
         </spawn_params>
+
         <!--
             Generator parameters
+
             Spawn points are generated around positions given inside <generator_posbubbles> element.
             Around every position is created a rectangle with given dimensions.
             This rectangle is then sampled for spawn point candidates in form of a grid.
         -->
         <generator_params>
+            <!--
+                Density is sample frequency of created rectangle.
+
+                example:                         example:
+                  density 4                        density 8
+
+                grid will look like this:        grid will look like this:
+
+                  +-----+-----+-----+-----+        +--+--+--+--+--+--+--+--+
+                  |     |     |     |     |        |  |  |  |  |  |  |  |  |
+                  |     |     |     |     |        +--+--+--+--+--+--+--+--+
+                  |     |     |     |     |        |  |  |  |  |  |  |  |  |
+                  +-----+-----+-----+-----+        +--+--+--+--+--+--+--+--+
+                  |     |     |     |     |        |  |  |  |  |  |  |  |  |
+                  |     |     |     |     |        +--+--+--+--+--+--+--+--+
+                  |     |     |     |     |        |  |  |  |  |  |  |  |  |
+                  +-----+-----+-----+-----+        +--+--+--+--+--+--+--+--+
+                  |     |     |     |     |        |  |  |  |  |  |  |  |  |
+                  |     |     |     |     |        +--+--+--+--+--+--+--+--+
+                  |     |     |     |     |        |  |  |  |  |  |  |  |  |
+                  +-----+-----+-----+-----+        +--+--+--+--+--+--+--+--+
+                  |     |     |     |     |        |  |  |  |  |  |  |  |  |
+                  |     |     |     |     |        +--+--+--+--+--+--+--+--+
+                  |     |     |     |     |        |  |  |  |  |  |  |  |  |
+                  +-----+-----+-----+-----+        +--+--+--+--+--+--+--+--+
+
+                Every '+' represents a spawn point candidate.
+                Blank areas are space between each spawn point.
+                Width of each area is exaclty width / density.
+                Height of each area is exaclty height / density.
+            -->
             <grid_density>8</grid_density>
             <!-- total width of grid in metres -->
             <grid_width>40.0</grid_width>
@@ -36,66 +69,43 @@
             <min_steepness>-45</min_steepness>
             <max_steepness>45</max_steepness>
         </generator_params>
+
         <!-- centers for grids of spawn points -->
         <generator_posbubbles>	
-		<!--Borislav-->
-		<pos x="1885.373779" z="2929.090576"/>
-		<pos x="2747.998779" z="2681.003418"/>
-		
-		<!--West Orchard-->
-		<pos x="2631.060303" z="2408.110596"/>
-		<pos x="2593.548584" z="2473.546631"/>
-		
-		<!--East Orchard-->
-		<pos x="8489.377930" z="3345.391846"/>
-		
-		<!--Strakh-->
-		<pos x="4129.494629" z="2359.123291"/>
-		<pos x="3660.716553" z="2003.787231"/>
-		
-		<!--Temnikov-->
-		<pos x="7105.503418" z="1972.280273"/>
-		<pos x="6802.226074" z="1697.111084"/>
-
-		<!--Samara-->
-		<pos x="5460.706055" z="2821.809326"/>
-		<pos x="5431.285156" z="2988.970703"/>
-
-		<!--Northwest Temnikov-->
-		<pos x="6359.141113" z="2858.410889"/>
-		<pos x="6248.165039" z="3028.804932"/>
-
-		<!-- Freshie Minefield 
-			<pos x="3280.79" z="3145.8"/>
-			<pos x="3277.14" z="3160.71"/>
-			<pos x="3269.85" z="3148.32"/>
-			<pos x="3269.61" z="3147.54"/> -->
-
-			<!--  MegaFreshVille /> 
-			<pos x="9326" z="3631" />
-			<pos x="9385" z="3825" />
-			<pos x="9229" z="3871" />
-			<pos x="9453" z="3737" /> -->
-			
-			<!-- Freshie Milly 
-			<pos x="7439.37" z="3381.84" />
-			<pos x="7368.04" z="3481.01" />
-			<pos x="7339.89" z="3268.18" />
-			<pos x="7122.6" z="3344.87" /> -->
-			
-			<!-- PierTown -->
-			<!--
-			<pos x="5192.8" z="2171.38" />
-			<pos x="5343.89" z="2251.24" />
-			<pos x="5341.22" z="2341.34" />
-			<pos x="5160.66" z="2345.97" />-->
-			
-			<!-- Minefield
-			<pos x="8981.23" z="5485.98" />
-			<pos x="8991.33" z="5477.84" />
-			<pos x="8974.88" z="5495.49" /> -->
+			<pos x="5954.338379" z="1773.843384"/>
+			<pos x="6181.653809" z="1688.549805"/>
+			<pos x="6375.731934" z="1688.627563"/>
+			<pos x="6642.050293" z="1667.813232"/>
+			<pos x="6946.324219" z="1688.837280"/>
+			<pos x="6833.464844" z="1937.645630"/>
+			<pos x="7085.674316" z="1961.479004"/>
+			<pos x="6539.628906" z="2351.506348"/>
+			<pos x="5771.967285" z="2577.250488"/>
+			<pos x="5404.665039" z="2519.970703"/>
+			<pos x="5561.676270" z="2305.542969"/>
+			<pos x="4942.729492" z="2270.864258"/>
+			<pos x="4602.038086" z="2272.569092"/>
+			<pos x="4367.494141" z="2152.112305"/>
+			<pos x="4059.696289" z="2043.672974"/>
+			<pos x="3906.990234" z="1912.564941"/>
+			<pos x="3637.720947" z="1914.810791"/>
+			<pos x="3567.578857" z="2166.295654"/>
+			<pos x="3182.261719" z="2227.990967"/>
+			<pos x="2618.155518" z="2476.367676"/>
+			<pos x="2290.331055" z="2777.791992"/>
+			<pos x="2022.049927" z="2681.788086"/>
+			<pos x="2025.230835" z="2742.539551"/>
+			<pos x="1948.939819" z="2957.521973"/>
+			<pos x="2749.006836" z="2671.768555"/>
+			<pos x="1372.927368" z="2671.784180"/>
+			<pos x="2290.335205" z="2815.186279"/>
+			<pos x="3148.339844" z="2453.210938"/>
+			<pos x="9046.535156" z="3092.692139"/>
+			<pos x="8595.147461" z="3132.264404"/>
+			<pos x="9330.389648" z="3148.354004"/>
         </generator_posbubbles>
     </fresh>
+
     <!--
         Spawn points settings for server hoppers
     -->
@@ -106,31 +116,9 @@
 			<pos x="3277.14" z="3160.71"/>
 			<pos x="3269.85" z="3148.32"/>
 			<pos x="3269.61" z="3147.54"/>
-		
-			<!-- MegaFreshVille /> 
-			<pos x="9326" z="3631" />
-			<pos x="9385" z="3825" />
-			<pos x="9229" z="3871" />
-			<pos x="9453" z="3737" /> -->
-			
-			<!-- Freshie Milly 
-			<pos x="7439.37" z="3381.84" />
-			<pos x="7368.04" z="3481.01" />
-			<pos x="7339.89" z="3268.18" />
-			<pos x="7122.6" z="3344.87" /> -->
-			
-			<!-- PierTown -->
-			<!-- <pos x="5192.8" z="2171.38" />
-			<pos x="5343.89" z="2251.24" />
-			<pos x="5341.22" z="2341.34" />
-			<pos x="5160.66" z="2345.97" /> -->
-			
-			<!-- Minefield
-			<pos x="8981.23" z="5485.98" />
-			<pos x="8991.33" z="5477.84" />
-			<pos x="8974.88" z="5495.49" /> -->
         </generator_posbubbles>
     </hop>
+
     <!--
         Spawn points settings for travellers
     -->
@@ -141,29 +129,6 @@
 			<pos x="3277.14" z="3160.71"/>
 			<pos x="3269.85" z="3148.32"/>
 			<pos x="3269.61" z="3147.54"/>
-			
-			<!-- MegaFreshVille /> 
-			<pos x="9326" z="3631" />
-			<pos x="9385" z="3825" />
-			<pos x="9229" z="3871" />
-			<pos x="9453" z="3737" /> -->
-			
-			<!-- Freshie Milly 
-			<pos x="7439.37" z="3381.84" />
-			<pos x="7368.04" z="3481.01" />
-			<pos x="7339.89" z="3268.18" />
-			<pos x="7122.6" z="3344.87" /> -->
-			
-			<!-- PierTown -->
-			<!-- <pos x="5192.8" z="2171.38" />
-			<pos x="5343.89" z="2251.24" />
-			<pos x="5341.22" z="2341.34" />
-			<pos x="5160.66" z="2345.97" /> -->
-			
-			<!-- Minefield
-			<pos x="8981.23" z="5485.98" />
-			<pos x="8991.33" z="5477.84" />
-			<pos x="8974.88" z="5495.49" /> -->
         </generator_posbubbles>
     </travel>
 </playerspawnpoints>

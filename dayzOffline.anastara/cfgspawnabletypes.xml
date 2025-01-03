@@ -1,28 +1,59 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
 <spawnabletypes>
+	
+	<type name="Boat_01_Black">
+		<attachments chance="0.50">
+			<item name="SparkPlug" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="Boat_01_Blue">
+		<attachments chance="0.50">
+			<item name="SparkPlug" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="Boat_01_Camo">
+		<attachments chance="0.50">
+			<item name="SparkPlug" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="Boat_01_Orange">
+		<attachments chance="0.50">
+			<item name="SparkPlug" chance="1.0" />
+		</attachments>
+	</type>
+
 	<type name="M14">
 		<damage min="0.0" max="0.0" />
 	</type>
+	
 	<type name="Mag_M14_10Rnd">
 		<damage min="0.0" max="0.0" />
 	</type>
+	
 	<type name="FAL">
 		<damage min="0.0" max="0.0" />
 	</type>
+	
 	<type name="Mag_FAL_20Rnd">
 		<damage min="0.0" max="0.0" />
 	</type>
+	
 	<type name="land_exocrate1">
 		<damage min="0.0" max="0.0" />
 	</type>
+	
 	<type name="land_exocrate2">
 		<damage min="0.0" max="0.0" />
 	</type>
+	
 	<type name="Exo_Manual">
 		<damage min="0.0" max="0.0" />
 	</type>
+	
 	<type name="45carbine">
 		<damage min="0.25" max="0.45" />
+		
 		<attachments chance="1.00">
 			<item name="M68Optic" chance="1.00" />
 		</attachments>
@@ -33,12 +64,26 @@
 			<item name="45carbine_mag" chance="0.50" />	
 		</attachments>
 	</type>
+	
+	<type name="VX78Rifle">
+		<damage min="0.00" max="0.00" />
+		
+		<attachments chance="1.00">
+			<item name="ACOGOptic_6x" chance="1.00" />
+		</attachments>
+		
+		<attachments chance="0.30">
+			<item name="vx78_suppressor" chance="1.00" />	
+		</attachments>
+	</type>
+	
 	<type name="M68Optic">
 		<damage min="0.25" max="0.45" />
 		<attachments chance="1.00">
 			<item name="Battery9V" chance="1.00" />
 		</attachments>
 	</type>
+	
 	<type name="RFFSHeli_Bo105m_blackcamo">
 		<attachments chance="1.00">
 			<item name="HeadlightH7" chance="1.00" />
@@ -59,6 +104,7 @@
 			<item name="RFFSHeli_aviation_battery" chance="0.10" />
 		</attachments>
 	</type>
+	
 	<type name="RFFSHeli_UH1H">
 		<attachments chance="1.00">
 			<item name="HeadlightH7" chance="1.00" />
@@ -79,6 +125,9 @@
 			<item name="RFFSHeli_aviation_battery" chance="0.10" />
 		</attachments>
 	</type>
+	
+	
+	
 	<type name="RFWC_Whaler">
 		<damage min="0.1" max="0.3" />
 		<attachments chance="1.00">
@@ -169,6 +218,7 @@
 			<item name="EngineOil" chance="0.30" />
 		</attachments>
 	</type>
+	
 	<type name="RFWC_Seadoo_Camo">
 		<damage min="0.1" max="0.3" />
 		<attachments chance="1.00">
@@ -223,6 +273,7 @@
 			<item name="EngineOil" chance="0.30" />
 		</attachments>
 	</type>
+	
 	<type name="Barrel_Blue">
 		<hoarder />
 	</type>
@@ -280,18 +331,23 @@
 	<type name="NVGoggles">
 		<damage min="0.0" max="0.32" />
 	</type>
+	
 	<type name="KazuarOptic">
 		<damage min="0.0" max="0.32" />
 	</type>
+	
 	<type name="StarlightOptic">
 		<damage min="0.0" max="0.32" />
 	</type>
+	
 	<type name="AugOptic">
 		<damage min="0.0" max="0.0" />
 	</type>
+	
 	<type name="SSG82Optic">
 		<damage min="0.0" max="0.0" />
 	</type>
+	
 	<type name="BandageDressing">
 		<damage min="0.0" max="0.0" />
 	</type>
@@ -495,7 +551,9 @@
 		<cargo chance="0.50"> <item name="Ammo_40mm_Explosive" /> </cargo>
 		<cargo chance="0.20"> <item name="Ammo_40mm_Explosive" /> </cargo>
 		<cargo chance="0.10"> <item name="Ammo_40mm_Explosive" /> </cargo>
+		
 	</type>
+	
 	<type name="AirborneMask">
 		<damage min="0.0" max="0.35" />
 		<cargo chance="0.2">
@@ -1242,6 +1300,100 @@
 		</attachments>
 	</type>
 	<!--START OF ZOMBIES  -->
+	<!--Coastal-->
+	<type name="Zombie_Coastal_Primary">
+		<cargo preset="foodCoastal" />
+		<cargo preset="toolsCoastal" />
+		<cargo preset="toolsCoastal" />
+		<attachments preset="bagsCoastal" />
+		<attachments preset="hatsCoastal" />
+	</type>
+	<type name="Zombie_Coastal_Basic">
+		<cargo preset="foodCoastal" />
+		<cargo preset="toolsCoastal" />
+		<cargo preset="toolsCoastal" />
+		<attachments preset="bagsCoastal" />
+		<attachments preset="hatsCoastal" />
+	</type>
+	<type name="Zombie_Coastal_Fisherman">
+		<cargo preset="foodCoastal" />
+		<cargo preset="toolsCoastal" />
+		<cargo preset="toolsCoastal" />
+		<attachments preset="bagsCoastal" />
+		<attachments preset="hatsCoastal" />
+		<attachments preset="handsCoastal" />
+	</type>
+	<type name="Zombie_Coastal_Stowaway">
+		<cargo preset="foodCoastal" />
+		<cargo preset="toolsCoastal" />
+		<cargo preset="toolsCoastal" />
+		<attachments preset="bagsCoastal" />
+		<attachments preset="hatsCoastal" />
+		<attachments preset="handsCoastal" />
+	</type>
+	<type name="Zombie_Coastal_Medic">
+		<cargo preset="foodCoastal" />
+		<cargo preset="toolsMedic" />
+		<cargo preset="toolsMedic" />
+		<attachments preset="bagsCoastal" />
+		<attachments preset="hatsCoastal" />
+		<attachments preset="handsCoastal" />
+	</type>
+	<type name="Zombie_Coastal_Worker">
+		<cargo preset="foodCoastal" />
+		<cargo preset="toolsCoastal" />
+		<cargo preset="toolsCoastal" />
+		<attachments preset="bagsCoastal" />
+		<attachments preset="hatsCoastal" />
+		<attachments preset="handsCoastal" />
+	</type>
+	
+	<type name="Zombie_Coastal_Stowaway2">
+		<cargo preset="foodCoastal" />
+		<cargo preset="toolsCoastal" />
+		<cargo preset="toolsCoastal" />
+		<attachments preset="bagsCoastal" />
+		<attachments preset="hatsCoastal" />
+		<attachments preset="handsCoastal" />
+	</type>
+	<type name="Zombie_Coastal_Stowaway_f">
+		<cargo preset="foodCoastal" />
+		<cargo preset="toolsCoastal" />
+		<cargo preset="toolsCoastal" />
+		<attachments preset="bagsCoastal" />
+		<attachments preset="hatsCoastal" />
+		<attachments preset="handsCoastal" />
+	</type>
+	
+	<type name="Zombie_Patrol_Sgt">
+		<cargo preset="foodArmycoastal" />
+		<cargo preset="ammoArmycoastal" />
+		<attachments preset="hatsArmycoastal" />
+		<attachments preset="bagsArmycoastal" />
+		<attachments preset="vestsArmycoastal" />
+	</type>
+	<type name="Zombie_Patrol_Captain">
+		<cargo preset="foodArmycoastal" />
+		<cargo preset="ammoArmycoastal" />
+		<attachments preset="hatsArmycoastal" />
+		<attachments preset="bagsArmycoastal" />
+		<attachments preset="vestsArmycoastal" />
+	</type>
+	<type name="Zombie_Patrol_Officer">
+		<cargo preset="foodArmycoastal" />
+		<cargo preset="ammoArmycoastal" />
+		<attachments preset="hatsArmycoastal" />
+		<attachments preset="bagsArmycoastal" />
+		<attachments preset="vestsArmycoastal" />
+	</type>
+	<type name="Zombie_Patrol_Officer2">
+		<cargo preset="foodArmycoastal" />
+		<cargo preset="ammoArmycoastal" />
+		<attachments preset="hatsArmycoastal" />
+		<attachments preset="bagsArmycoastal" />
+		<attachments preset="vestsArmycoastal" />
+	</type>
+	
 	<!--NBC-->
 	<type name="ZmbM_NBC_Grey">
 		<cargo preset="ContaminatedCargo" />
@@ -1305,6 +1457,7 @@
 		<attachments preset="HeavyArmorArmy" />
 		<attachments preset="HeavyHelmetArmy" />
 	</type>
+	
 	<!--City-->
 	<type name="ZmbF_Clerk_Normal_Blue">
 		<cargo preset="foodCity" />
@@ -2122,14 +2275,7 @@
 		<attachments preset="glassesVillage" />
 		<attachments preset="vestsHunter" />
 	</type>
-	<type name="ZmbM_HunterOld_Winter">
-		<cargo preset="foodHermit" />
-		<cargo preset="toolsHermit" />
-		<attachments preset="glassesVillage" />
-		<attachments preset="hatsFarm" />
-		<attachments preset="bagsHunter" />
-		<attachments preset="vestsHunter" />
-	</type>
+
 	<!-- Village -->
 	<type name="ZmbF_MilkMaidOld_Beige">
 		<cargo preset="foodVillage" />
@@ -2750,6 +2896,7 @@
 	</type>
 	<type name="Canteen">
 	</type>
+	
 <!-- FUTURE
 	<type name="M249">
 		<attachments chance="1.00">
@@ -2840,6 +2987,7 @@
 			<item name="Battery9V" chance="1.00" />
 		</attachments>
 	</type>
+	
 	<!-- XMAS -->
 	<type name="GiftBox_Small_1">
 		<cargo preset="Xmas_Clothes_Small" />
@@ -3041,6 +3189,7 @@
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
 	</type>
+	
 	<!-- VEHICLES -->
 	<type name="OffroadHatchback">
 		<attachments chance="1.00">
@@ -3806,6 +3955,7 @@
 			<item name="Truck_01_Door_2_1_Orange" chance="0.10" />
 		</attachments>
 	</type>
+
 	<type name="V3S_Chassis">
 		<attachments chance="1.00">
 			<item name="V3SWheel" chance="0.10" />
@@ -3950,6 +4100,8 @@
 			<item name="V3SDoors_CoDriver_Grey" chance="0.50" />
 		</attachments>
 	</type>
+
+
 <!-- BOATS -->
 	<type name="ExpansionUtilityBoat">
 		<attachments chance="1.00">
@@ -3973,6 +4125,7 @@
 			<item name="GlowPlug" chance="1" />
 		</attachments>
 	</type>
+	
 <!-- GEBS FISH -->
 <type name="geb_Crayfish" />
 	<type name="geb_CrayfishFilletMeat" />
@@ -3986,6 +4139,8 @@
 	<type name="geb_BlackbassFilletMeat" />
 	<type name="geb_Trout" />
 	<type name="geb_TroutFilletMeat" />
+	
+	
 		<type name="geb_BrookTrout" />
 	<type name="geb_BrookTroutFilletMeat" />
 		<type name="geb_BrownTrout" />
@@ -3994,6 +4149,8 @@
 	<type name="geb_LakeTroutFilletMeat" />
 		<type name="geb_CutthroatTrout" />
 	<type name="geb_CutthroatTroutFilletMeat" />
+	
+	
 	<type name="geb_Perch" />
 	<type name="geb_PerchFilletMeat" />
 	<type name="geb_Catfish" />
@@ -4691,6 +4848,7 @@
 		</cargo>
 	</type>
 	<type name="geb_MinnowBucket" />
+	
 	<type name="ExpansionBus">
 		<attachments chance="1.00">
 			<item name="TruckBattery" chance="0.60" />
@@ -4760,4 +4918,5 @@
 			<item name="ExpansionBusWheelDouble" chance="0.80" />
 		</attachments>
 	</type>
+	
 </spawnabletypes>

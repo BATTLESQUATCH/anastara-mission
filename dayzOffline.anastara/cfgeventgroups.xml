@@ -667,6 +667,7 @@
     </group>
     
     <!-- Police Events -->
+
         <!--pos deloot="1" lootmax="4" lootmin="2" x="11909.426" z="6432.040" a="0" y="49.747" group="Block_Dolina"/-->
     <group name="Block_Dolina">
         <child type="StaticObj_Roadblock_Wood_Long_DE" spawnsecondary="false" x="0" z="0" a="338.213"/>

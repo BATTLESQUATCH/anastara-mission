@@ -6,6 +6,8 @@
 			"Data": { 
 				"Pos": [ 4918.014160, 0, 4275.43 ],
 				"Radius": 110,
+				
+				
 				"PosHeight": 80,
 				"NegHeight": 0,
 				"InnerRingCount": 1,
@@ -28,6 +30,8 @@
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
 				"Pos": [ 9112.465820, 0, 5569.096680 ],
+
+
 				"Radius": 120,
 				"PosHeight": 22,
 				"NegHeight": 10,
@@ -69,8 +73,12 @@
 				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
 			}
 		}
+		
     ],
+	
 	"SafePositions":[
 		[4582.44, 4577.43]
 	]
+	
+	
 }

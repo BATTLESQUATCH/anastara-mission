@@ -12,7 +12,12 @@
 		<category name="exoloot1"/>
 		<category name="exoloot2"/>
 		<category name="exoloot3"/>
+		<category name="soldierloot1"/>
+		<category name="soldierloot2"/>
+		<category name="soldierloot3"/>
+		<category name="lighthouse"/>
 	</categories>
+
 	<tags>
 		<tag name="floor"/>
 		<tag name="shelves"/>
@@ -20,7 +25,12 @@
 		<tag name="exoloot1"/>
 		<tag name="exoloot2"/>
 		<tag name="exoloot3"/>
+		<tag name="soldierloot1"/>
+		<tag name="soldierloot2"/>
+		<tag name="soldierloot3"/>
+		<tag name="lighthouse"/>
 	</tags>
+
 	<usageflags>
 		<usage name="Military"/>
 		<usage name="Police"/>
@@ -40,6 +50,10 @@
 		<usage name="ContaminatedArea"/>
 		<usage name="Underground"/>
 		<usage name="ExoUnderground"/>
+		<usage name="SoldierLore1"/>
+		<usage name="SoldierLore2"/>
+		<usage name="SoldierLore3"/>
+		<usage name="Lighthouse"/>
 		<usage name="Historical"/>
 	</usageflags>
     <valueflags>
