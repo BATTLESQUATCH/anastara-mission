@@ -31,6 +31,9 @@ Minefields can have significant performance impact depending on your server spec
  - Dabs Framework (for dynamic weather events by LIVINGxDEAD)
  - Windstrides Clothing Pack
 
+**Required mod load order for dependencies;** 
+- @CF;@Dabs Framework;@Anastara;@Anastara Server Pack;@WindstridesClothingPack
+
 ### Recommended Mods
 These mods improve the experience but are not dependencies:
  - Gebs Fish
@@ -64,6 +67,7 @@ The following community members were critical to the Anastara project:
  - livingxdead
  - filthysausage
  - dirtyburglar
+ - ________ aka n3rdly
 
 If I missed anyone, please don't be shy and let me know.  
 
