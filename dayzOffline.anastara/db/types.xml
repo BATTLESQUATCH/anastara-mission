@@ -1158,10 +1158,10 @@
 <!-- VANILLA UPDATES SINCE PROJECT START -->
 
 	<type name="R12">
-        <nominal>5</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>5</min>
         <quantmin>20</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -1200,10 +1200,10 @@
 
 
 	<type name="SportingOptic">More actions
-        <nominal>8</nominal>
+        <nominal>9</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>9</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
